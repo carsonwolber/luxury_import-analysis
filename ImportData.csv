@@ -1,1334 +1,270 @@
-Series Name,Series Code,Country Name,Country Code,2019 [YR2019]
-Land area (sq. km),AG.LND.TOTL.K2,Afghanistan,AFG,652230
-Land area (sq. km),AG.LND.TOTL.K2,Albania,ALB,27400
-Land area (sq. km),AG.LND.TOTL.K2,Algeria,DZA,2381741
-Land area (sq. km),AG.LND.TOTL.K2,American Samoa,ASM,200
-Land area (sq. km),AG.LND.TOTL.K2,Andorra,AND,470
-Land area (sq. km),AG.LND.TOTL.K2,Angola,AGO,1246700
-Land area (sq. km),AG.LND.TOTL.K2,Antigua and Barbuda,ATG,440
-Land area (sq. km),AG.LND.TOTL.K2,Argentina,ARG,2736690
-Land area (sq. km),AG.LND.TOTL.K2,Armenia,ARM,28470
-Land area (sq. km),AG.LND.TOTL.K2,Aruba,ABW,180
-Land area (sq. km),AG.LND.TOTL.K2,Australia,AUS,7692020
-Land area (sq. km),AG.LND.TOTL.K2,Austria,AUT,82520
-Land area (sq. km),AG.LND.TOTL.K2,Azerbaijan,AZE,82654
-Land area (sq. km),AG.LND.TOTL.K2,"Bahamas, The",BHS,10010
-Land area (sq. km),AG.LND.TOTL.K2,Bahrain,BHR,780
-Land area (sq. km),AG.LND.TOTL.K2,Bangladesh,BGD,130170
-Land area (sq. km),AG.LND.TOTL.K2,Barbados,BRB,430
-Land area (sq. km),AG.LND.TOTL.K2,Belarus,BLR,202965
-Land area (sq. km),AG.LND.TOTL.K2,Belgium,BEL,30494
-Land area (sq. km),AG.LND.TOTL.K2,Belize,BLZ,22810
-Land area (sq. km),AG.LND.TOTL.K2,Benin,BEN,112760
-Land area (sq. km),AG.LND.TOTL.K2,Bermuda,BMU,54
-Land area (sq. km),AG.LND.TOTL.K2,Bhutan,BTN,38140
-Land area (sq. km),AG.LND.TOTL.K2,Bolivia,BOL,1083300
-Land area (sq. km),AG.LND.TOTL.K2,Bosnia and Herzegovina,BIH,51200
-Land area (sq. km),AG.LND.TOTL.K2,Botswana,BWA,566730
-Land area (sq. km),AG.LND.TOTL.K2,Brazil,BRA,8358140
-Land area (sq. km),AG.LND.TOTL.K2,British Virgin Islands,VGB,150
-Land area (sq. km),AG.LND.TOTL.K2,Brunei Darussalam,BRN,5270
-Land area (sq. km),AG.LND.TOTL.K2,Bulgaria,BGR,108560
-Land area (sq. km),AG.LND.TOTL.K2,Burkina Faso,BFA,273600
-Land area (sq. km),AG.LND.TOTL.K2,Burundi,BDI,25680
-Land area (sq. km),AG.LND.TOTL.K2,Cabo Verde,CPV,4030
-Land area (sq. km),AG.LND.TOTL.K2,Cambodia,KHM,176520
-Land area (sq. km),AG.LND.TOTL.K2,Cameroon,CMR,472710
-Land area (sq. km),AG.LND.TOTL.K2,Canada,CAN,8965590
-Land area (sq. km),AG.LND.TOTL.K2,Cayman Islands,CYM,240
-Land area (sq. km),AG.LND.TOTL.K2,Central African Republic,CAF,622980
-Land area (sq. km),AG.LND.TOTL.K2,Chad,TCD,1259200
-Land area (sq. km),AG.LND.TOTL.K2,Channel Islands,CHI,198
-Land area (sq. km),AG.LND.TOTL.K2,Chile,CHL,743532
-Land area (sq. km),AG.LND.TOTL.K2,China,CHN,9388210
-Land area (sq. km),AG.LND.TOTL.K2,Colombia,COL,1109500
-Land area (sq. km),AG.LND.TOTL.K2,Comoros,COM,1861
-Land area (sq. km),AG.LND.TOTL.K2,"Congo, Dem. Rep.",COD,2267050
-Land area (sq. km),AG.LND.TOTL.K2,"Congo, Rep.",COG,341500
-Land area (sq. km),AG.LND.TOTL.K2,Costa Rica,CRI,51060
-Land area (sq. km),AG.LND.TOTL.K2,Cote d'Ivoire,CIV,318000
-Land area (sq. km),AG.LND.TOTL.K2,Croatia,HRV,55964
-Land area (sq. km),AG.LND.TOTL.K2,Cuba,CUB,103800
-Land area (sq. km),AG.LND.TOTL.K2,Curacao,CUW,444
-Land area (sq. km),AG.LND.TOTL.K2,Cyprus,CYP,9240
-Land area (sq. km),AG.LND.TOTL.K2,Czechia,CZE,77205.5
-Land area (sq. km),AG.LND.TOTL.K2,Denmark,DNK,40000
-Land area (sq. km),AG.LND.TOTL.K2,Djibouti,DJI,23180
-Land area (sq. km),AG.LND.TOTL.K2,Dominica,DMA,750
-Land area (sq. km),AG.LND.TOTL.K2,Dominican Republic,DOM,48198.02
-Land area (sq. km),AG.LND.TOTL.K2,Ecuador,ECU,248360
-Land area (sq. km),AG.LND.TOTL.K2,"Egypt, Arab Rep.",EGY,995450
-Land area (sq. km),AG.LND.TOTL.K2,El Salvador,SLV,20720
-Land area (sq. km),AG.LND.TOTL.K2,Equatorial Guinea,GNQ,28050
-Land area (sq. km),AG.LND.TOTL.K2,Eritrea,ERI,121080.546
-Land area (sq. km),AG.LND.TOTL.K2,Estonia,EST,42750
-Land area (sq. km),AG.LND.TOTL.K2,Eswatini,SWZ,17200
-Land area (sq. km),AG.LND.TOTL.K2,Ethiopia,ETH,1128570.9
-Land area (sq. km),AG.LND.TOTL.K2,Faroe Islands,FRO,1396
-Land area (sq. km),AG.LND.TOTL.K2,Fiji,FJI,18270
-Land area (sq. km),AG.LND.TOTL.K2,Finland,FIN,303930
-Land area (sq. km),AG.LND.TOTL.K2,France,FRA,547557
-Land area (sq. km),AG.LND.TOTL.K2,French Polynesia,PYF,3471
-Land area (sq. km),AG.LND.TOTL.K2,Gabon,GAB,257670
-Land area (sq. km),AG.LND.TOTL.K2,"Gambia, The",GMB,10120
-Land area (sq. km),AG.LND.TOTL.K2,Georgia,GEO,69490
-Land area (sq. km),AG.LND.TOTL.K2,Germany,DEU,349390
-Land area (sq. km),AG.LND.TOTL.K2,Ghana,GHA,227533
-Land area (sq. km),AG.LND.TOTL.K2,Gibraltar,GIB,10
-Land area (sq. km),AG.LND.TOTL.K2,Greece,GRC,128900
-Land area (sq. km),AG.LND.TOTL.K2,Greenland,GRL,410450
-Land area (sq. km),AG.LND.TOTL.K2,Grenada,GRD,340
-Land area (sq. km),AG.LND.TOTL.K2,Guam,GUM,540
-Land area (sq. km),AG.LND.TOTL.K2,Guatemala,GTM,107160
-Land area (sq. km),AG.LND.TOTL.K2,Guinea,GIN,245720
-Land area (sq. km),AG.LND.TOTL.K2,Guinea-Bissau,GNB,28120
-Land area (sq. km),AG.LND.TOTL.K2,Guyana,GUY,196850
-Land area (sq. km),AG.LND.TOTL.K2,Haiti,HTI,27560
-Land area (sq. km),AG.LND.TOTL.K2,Honduras,HND,111890
-Land area (sq. km),AG.LND.TOTL.K2,"Hong Kong SAR, China",HKG,1050
-Land area (sq. km),AG.LND.TOTL.K2,Hungary,HUN,91260
-Land area (sq. km),AG.LND.TOTL.K2,Iceland,ISL,100830
-Land area (sq. km),AG.LND.TOTL.K2,India,IND,2973190
-Land area (sq. km),AG.LND.TOTL.K2,Indonesia,IDN,1877519
-Land area (sq. km),AG.LND.TOTL.K2,"Iran, Islamic Rep.",IRN,1622500
-Land area (sq. km),AG.LND.TOTL.K2,Iraq,IRQ,434128
-Land area (sq. km),AG.LND.TOTL.K2,Ireland,IRL,68890
-Land area (sq. km),AG.LND.TOTL.K2,Isle of Man,IMN,570
-Land area (sq. km),AG.LND.TOTL.K2,Israel,ISR,21640
-Land area (sq. km),AG.LND.TOTL.K2,Italy,ITA,295717
-Land area (sq. km),AG.LND.TOTL.K2,Jamaica,JAM,10830
-Land area (sq. km),AG.LND.TOTL.K2,Japan,JPN,364500
-Land area (sq. km),AG.LND.TOTL.K2,Jordan,JOR,88794
-Land area (sq. km),AG.LND.TOTL.K2,Kazakhstan,KAZ,2699700
-Land area (sq. km),AG.LND.TOTL.K2,Kenya,KEN,569140
-Land area (sq. km),AG.LND.TOTL.K2,Kiribati,KIR,810
-Land area (sq. km),AG.LND.TOTL.K2,"Korea, Dem. People's Rep.",PRK,120410
-Land area (sq. km),AG.LND.TOTL.K2,"Korea, Rep.",KOR,97600
-Land area (sq. km),AG.LND.TOTL.K2,Kosovo,XKX,..
-Land area (sq. km),AG.LND.TOTL.K2,Kuwait,KWT,17820
-Land area (sq. km),AG.LND.TOTL.K2,Kyrgyz Republic,KGZ,191800
-Land area (sq. km),AG.LND.TOTL.K2,Lao PDR,LAO,230800
-Land area (sq. km),AG.LND.TOTL.K2,Latvia,LVA,62227
-Land area (sq. km),AG.LND.TOTL.K2,Lebanon,LBN,10230
-Land area (sq. km),AG.LND.TOTL.K2,Lesotho,LSO,30360
-Land area (sq. km),AG.LND.TOTL.K2,Liberia,LBR,96320
-Land area (sq. km),AG.LND.TOTL.K2,Libya,LBY,1759540
-Land area (sq. km),AG.LND.TOTL.K2,Liechtenstein,LIE,160
-Land area (sq. km),AG.LND.TOTL.K2,Lithuania,LTU,62620
-Land area (sq. km),AG.LND.TOTL.K2,Luxembourg,LUX,2574.46
-Land area (sq. km),AG.LND.TOTL.K2,"Macao SAR, China",MAC,32.9
-Land area (sq. km),AG.LND.TOTL.K2,Madagascar,MDG,581800
-Land area (sq. km),AG.LND.TOTL.K2,Malawi,MWI,94280
-Land area (sq. km),AG.LND.TOTL.K2,Malaysia,MYS,328550
-Land area (sq. km),AG.LND.TOTL.K2,Maldives,MDV,300
-Land area (sq. km),AG.LND.TOTL.K2,Mali,MLI,1220190
-Land area (sq. km),AG.LND.TOTL.K2,Malta,MLT,320
-Land area (sq. km),AG.LND.TOTL.K2,Marshall Islands,MHL,180
-Land area (sq. km),AG.LND.TOTL.K2,Mauritania,MRT,1030700
-Land area (sq. km),AG.LND.TOTL.K2,Mauritius,MUS,1997
-Land area (sq. km),AG.LND.TOTL.K2,Mexico,MEX,1943950
-Land area (sq. km),AG.LND.TOTL.K2,"Micronesia, Fed. Sts.",FSM,700
-Land area (sq. km),AG.LND.TOTL.K2,Moldova,MDA,32885.9
-Land area (sq. km),AG.LND.TOTL.K2,Monaco,MCO,2.027
-Land area (sq. km),AG.LND.TOTL.K2,Mongolia,MNG,1557258
-Land area (sq. km),AG.LND.TOTL.K2,Montenegro,MNE,13450
-Land area (sq. km),AG.LND.TOTL.K2,Morocco,MAR,446300
-Land area (sq. km),AG.LND.TOTL.K2,Mozambique,MOZ,786380
-Land area (sq. km),AG.LND.TOTL.K2,Myanmar,MMR,652700
-Land area (sq. km),AG.LND.TOTL.K2,Namibia,NAM,823290
-Land area (sq. km),AG.LND.TOTL.K2,Nauru,NRU,20
-Land area (sq. km),AG.LND.TOTL.K2,Nepal,NPL,143350
-Land area (sq. km),AG.LND.TOTL.K2,Netherlands,NLD,33670
-Land area (sq. km),AG.LND.TOTL.K2,New Caledonia,NCL,18280
-Land area (sq. km),AG.LND.TOTL.K2,New Zealand,NZL,263310
-Land area (sq. km),AG.LND.TOTL.K2,Nicaragua,NIC,120340
-Land area (sq. km),AG.LND.TOTL.K2,Niger,NER,1266700
-Land area (sq. km),AG.LND.TOTL.K2,Nigeria,NGA,910770
-Land area (sq. km),AG.LND.TOTL.K2,North Macedonia,MKD,25220
-Land area (sq. km),AG.LND.TOTL.K2,Northern Mariana Islands,MNP,460
-Land area (sq. km),AG.LND.TOTL.K2,Norway,NOR,365094
-Land area (sq. km),AG.LND.TOTL.K2,Oman,OMN,309500
-Land area (sq. km),AG.LND.TOTL.K2,Pakistan,PAK,770880
-Land area (sq. km),AG.LND.TOTL.K2,Palau,PLW,460
-Land area (sq. km),AG.LND.TOTL.K2,Panama,PAN,74180
-Land area (sq. km),AG.LND.TOTL.K2,Papua New Guinea,PNG,452860
-Land area (sq. km),AG.LND.TOTL.K2,Paraguay,PRY,397300
-Land area (sq. km),AG.LND.TOTL.K2,Peru,PER,1280000
-Land area (sq. km),AG.LND.TOTL.K2,Philippines,PHL,298170
-Land area (sq. km),AG.LND.TOTL.K2,Poland,POL,306110
-Land area (sq. km),AG.LND.TOTL.K2,Portugal,PRT,91605.6
-Land area (sq. km),AG.LND.TOTL.K2,Puerto Rico,PRI,8870
-Land area (sq. km),AG.LND.TOTL.K2,Qatar,QAT,11490
-Land area (sq. km),AG.LND.TOTL.K2,Romania,ROU,230080
-Land area (sq. km),AG.LND.TOTL.K2,Russian Federation,RUS,16376870
-Land area (sq. km),AG.LND.TOTL.K2,Rwanda,RWA,24670
-Land area (sq. km),AG.LND.TOTL.K2,Samoa,WSM,2780
-Land area (sq. km),AG.LND.TOTL.K2,San Marino,SMR,60
-Land area (sq. km),AG.LND.TOTL.K2,Sao Tome and Principe,STP,960
-Land area (sq. km),AG.LND.TOTL.K2,Saudi Arabia,SAU,2149690
-Land area (sq. km),AG.LND.TOTL.K2,Senegal,SEN,192530
-Land area (sq. km),AG.LND.TOTL.K2,Serbia,SRB,87460
-Land area (sq. km),AG.LND.TOTL.K2,Seychelles,SYC,460
-Land area (sq. km),AG.LND.TOTL.K2,Sierra Leone,SLE,72180
-Land area (sq. km),AG.LND.TOTL.K2,Singapore,SGP,716
-Land area (sq. km),AG.LND.TOTL.K2,Sint Maarten (Dutch part),SXM,34
-Land area (sq. km),AG.LND.TOTL.K2,Slovak Republic,SVK,48080
-Land area (sq. km),AG.LND.TOTL.K2,Slovenia,SVN,20136.4
-Land area (sq. km),AG.LND.TOTL.K2,Solomon Islands,SLB,27990
-Land area (sq. km),AG.LND.TOTL.K2,Somalia,SOM,627340
-Land area (sq. km),AG.LND.TOTL.K2,South Africa,ZAF,1213090
-Land area (sq. km),AG.LND.TOTL.K2,South Sudan,SSD,631930
-Land area (sq. km),AG.LND.TOTL.K2,Spain,ESP,499570.036
-Land area (sq. km),AG.LND.TOTL.K2,Sri Lanka,LKA,61864.47
-Land area (sq. km),AG.LND.TOTL.K2,St. Kitts and Nevis,KNA,260
-Land area (sq. km),AG.LND.TOTL.K2,St. Lucia,LCA,610
-Land area (sq. km),AG.LND.TOTL.K2,St. Martin (French part),MAF,50
-Land area (sq. km),AG.LND.TOTL.K2,St. Vincent and the Grenadines,VCT,390
-Land area (sq. km),AG.LND.TOTL.K2,Sudan,SDN,1868000
-Land area (sq. km),AG.LND.TOTL.K2,Suriname,SUR,160507.61
-Land area (sq. km),AG.LND.TOTL.K2,Sweden,SWE,407280
-Land area (sq. km),AG.LND.TOTL.K2,Switzerland,CHE,39509.63
-Land area (sq. km),AG.LND.TOTL.K2,Syrian Arab Republic,SYR,183630
-Land area (sq. km),AG.LND.TOTL.K2,Tajikistan,TJK,138790
-Land area (sq. km),AG.LND.TOTL.K2,Tanzania,TZA,885800
-Land area (sq. km),AG.LND.TOTL.K2,Thailand,THA,510890
-Land area (sq. km),AG.LND.TOTL.K2,Timor-Leste,TLS,14870
-Land area (sq. km),AG.LND.TOTL.K2,Togo,TGO,54390
-Land area (sq. km),AG.LND.TOTL.K2,Tonga,TON,720
-Land area (sq. km),AG.LND.TOTL.K2,Trinidad and Tobago,TTO,5130
-Land area (sq. km),AG.LND.TOTL.K2,Tunisia,TUN,155360
-Land area (sq. km),AG.LND.TOTL.K2,Turkiye,TUR,769630
-Land area (sq. km),AG.LND.TOTL.K2,Turkmenistan,TKM,469930
-Land area (sq. km),AG.LND.TOTL.K2,Turks and Caicos Islands,TCA,950
-Land area (sq. km),AG.LND.TOTL.K2,Tuvalu,TUV,30
-Land area (sq. km),AG.LND.TOTL.K2,Uganda,UGA,200520
-Land area (sq. km),AG.LND.TOTL.K2,Ukraine,UKR,579400
-Land area (sq. km),AG.LND.TOTL.K2,United Arab Emirates,ARE,71020
-Land area (sq. km),AG.LND.TOTL.K2,United Kingdom,GBR,241930
-Land area (sq. km),AG.LND.TOTL.K2,United States,USA,9147420
-Land area (sq. km),AG.LND.TOTL.K2,Uruguay,URY,175020
-Land area (sq. km),AG.LND.TOTL.K2,Uzbekistan,UZB,440555
-Land area (sq. km),AG.LND.TOTL.K2,Vanuatu,VUT,12190
-Land area (sq. km),AG.LND.TOTL.K2,"Venezuela, RB",VEN,882050
-Land area (sq. km),AG.LND.TOTL.K2,Viet Nam,VNM,313429
-Land area (sq. km),AG.LND.TOTL.K2,Virgin Islands (U.S.),VIR,350
-Land area (sq. km),AG.LND.TOTL.K2,West Bank and Gaza,PSE,6020
-Land area (sq. km),AG.LND.TOTL.K2,"Yemen, Rep.",YEM,527970
-Land area (sq. km),AG.LND.TOTL.K2,Zambia,ZMB,743390
-Land area (sq. km),AG.LND.TOTL.K2,Zimbabwe,ZWE,386850
-Land area (sq. km),AG.LND.TOTL.K2,Africa Eastern and Southern,AFE,14845129.446
-Land area (sq. km),AG.LND.TOTL.K2,Africa Western and Central,AFW,9045773
-Land area (sq. km),AG.LND.TOTL.K2,Arab World,ARB,13100544
-Land area (sq. km),AG.LND.TOTL.K2,Caribbean small states,CSS,393397.61
-Land area (sq. km),AG.LND.TOTL.K2,Central Europe and the Baltics,CEB,1104992.9
-Land area (sq. km),AG.LND.TOTL.K2,Early-demographic dividend,EAR,33314978.53
-Land area (sq. km),AG.LND.TOTL.K2,East Asia & Pacific,EAS,24469195.9
-Land area (sq. km),AG.LND.TOTL.K2,East Asia & Pacific (excluding high income),EAP,15985856
-Land area (sq. km),AG.LND.TOTL.K2,East Asia & Pacific (IDA & IBRD countries),TEA,15865926
-Land area (sq. km),AG.LND.TOTL.K2,Euro area,EMU,2736155.496
-Land area (sq. km),AG.LND.TOTL.K2,Europe & Central Asia,ECS,27444880.553
-Land area (sq. km),AG.LND.TOTL.K2,Europe & Central Asia (excluding high income),ECA,5910999.9
-Land area (sq. km),AG.LND.TOTL.K2,Europe & Central Asia (IDA & IBRD countries),TEC,22988583.9
-Land area (sq. km),AG.LND.TOTL.K2,European Union,EUU,3996650.996
-Land area (sq. km),AG.LND.TOTL.K2,Fragile and conflict affected situations,FCS,20454370.446
-Land area (sq. km),AG.LND.TOTL.K2,Heavily indebted poor countries (HIPC),HPC,19394805.446
-Land area (sq. km),AG.LND.TOTL.K2,High income,HIC,51930124.553
-Land area (sq. km),AG.LND.TOTL.K2,IBRD only,IBD,70773414.92
-Land area (sq. km),AG.LND.TOTL.K2,IDA & IBRD total,IBT,96062657.446
-Land area (sq. km),AG.LND.TOTL.K2,IDA blend,IDB,4585042.61
-Land area (sq. km),AG.LND.TOTL.K2,IDA only,IDX,20704199.916
-Land area (sq. km),AG.LND.TOTL.K2,IDA total,IDA,25289242.526
-Land area (sq. km),AG.LND.TOTL.K2,Late-demographic dividend,LTE,44524698.37
-Land area (sq. km),AG.LND.TOTL.K2,Latin America & Caribbean,LCN,20043375.63
-Land area (sq. km),AG.LND.TOTL.K2,Latin America & Caribbean (excluding high income),LAC,17944205.63
-Land area (sq. km),AG.LND.TOTL.K2,Latin America & the Caribbean (IDA & IBRD countries),TLA,19918297.63
-Land area (sq. km),AG.LND.TOTL.K2,Least developed countries: UN classification,LDC,20360062.446
-Land area (sq. km),AG.LND.TOTL.K2,Low & middle income,LMY,77136471.446
-Land area (sq. km),AG.LND.TOTL.K2,Low income,LIC,14745341.446
-Land area (sq. km),AG.LND.TOTL.K2,Lower middle income,LMC,17879496.47
-Land area (sq. km),AG.LND.TOTL.K2,Middle East & North Africa,MEA,11217103
-Land area (sq. km),AG.LND.TOTL.K2,Middle East & North Africa (excluding high income),MNA,8634843
-Land area (sq. km),AG.LND.TOTL.K2,Middle East & North Africa (IDA & IBRD countries),TMN,8628823
-Land area (sq. km),AG.LND.TOTL.K2,Middle income,MIC,62391130
-Land area (sq. km),AG.LND.TOTL.K2,North America,NAC,18113064
-Land area (sq. km),AG.LND.TOTL.K2,Not classified,INX,..
-Land area (sq. km),AG.LND.TOTL.K2,OECD members,OED,35509602.626
-Land area (sq. km),AG.LND.TOTL.K2,Other small states,OSS,275698
-Land area (sq. km),AG.LND.TOTL.K2,Pacific island small states,PSS,64150
-Land area (sq. km),AG.LND.TOTL.K2,Post-demographic dividend,PST,31346281.526
-Land area (sq. km),AG.LND.TOTL.K2,Pre-demographic dividend,PRE,20308719.546
-Land area (sq. km),AG.LND.TOTL.K2,Small states,SST,733245.61
-Land area (sq. km),AG.LND.TOTL.K2,South Asia,SAS,4770124.47
-Land area (sq. km),AG.LND.TOTL.K2,South Asia (IDA & IBRD),TSA,4770124.47
-Land area (sq. km),AG.LND.TOTL.K2,Sub-Saharan Africa,SSF,23890902.446
-Land area (sq. km),AG.LND.TOTL.K2,Sub-Saharan Africa (excluding high income),SSA,23890442.446
-Land area (sq. km),AG.LND.TOTL.K2,Sub-Saharan Africa (IDA & IBRD countries),TSS,23890902.446
-Land area (sq. km),AG.LND.TOTL.K2,Upper middle income,UMC,44511633.53
-Land area (sq. km),AG.LND.TOTL.K2,World,WLD,129948645.999
-"Population, total",SP.POP.TOTL,Afghanistan,AFG,37856121
-"Population, total",SP.POP.TOTL,Albania,ALB,2854191
-"Population, total",SP.POP.TOTL,Algeria,DZA,43294546
-"Population, total",SP.POP.TOTL,American Samoa,ASM,50209
-"Population, total",SP.POP.TOTL,Andorra,AND,76474
-"Population, total",SP.POP.TOTL,Angola,AGO,32375632
-"Population, total",SP.POP.TOTL,Antigua and Barbuda,ATG,91364
-"Population, total",SP.POP.TOTL,Argentina,ARG,44973465
-"Population, total",SP.POP.TOTL,Armenia,ARM,2962500
-"Population, total",SP.POP.TOTL,Aruba,ABW,109203
-"Population, total",SP.POP.TOTL,Australia,AUS,25334826
-"Population, total",SP.POP.TOTL,Austria,AUT,8879920
-"Population, total",SP.POP.TOTL,Azerbaijan,AZE,10024283
-"Population, total",SP.POP.TOTL,"Bahamas, The",BHS,394675
-"Population, total",SP.POP.TOTL,Bahrain,BHR,1483756
-"Population, total",SP.POP.TOTL,Bangladesh,BGD,164913055
-"Population, total",SP.POP.TOTL,Barbados,BRB,281207
-"Population, total",SP.POP.TOTL,Belarus,BLR,9419758
-"Population, total",SP.POP.TOTL,Belgium,BEL,11488980
-"Population, total",SP.POP.TOTL,Belize,BLZ,385829
-"Population, total",SP.POP.TOTL,Benin,BEN,12726755
-"Population, total",SP.POP.TOTL,Bermuda,BMU,64107
-"Population, total",SP.POP.TOTL,Bhutan,BTN,764824
-"Population, total",SP.POP.TOTL,Bolivia,BOL,11671386
-"Population, total",SP.POP.TOTL,Bosnia and Herzegovina,BIH,3345533
-"Population, total",SP.POP.TOTL,Botswana,BWA,2332083
-"Population, total",SP.POP.TOTL,Brazil,BRA,207455459
-"Population, total",SP.POP.TOTL,British Virgin Islands,VGB,36395
-"Population, total",SP.POP.TOTL,Brunei Darussalam,BRN,442680
-"Population, total",SP.POP.TOTL,Bulgaria,BGR,6975761
-"Population, total",SP.POP.TOTL,Burkina Faso,BFA,20961952
-"Population, total",SP.POP.TOTL,Burundi,BDI,12255336
-"Population, total",SP.POP.TOTL,Cabo Verde,CPV,514104
-"Population, total",SP.POP.TOTL,Cambodia,KHM,16481304
-"Population, total",SP.POP.TOTL,Cameroon,CMR,25506095
-"Population, total",SP.POP.TOTL,Canada,CAN,37618495
-"Population, total",SP.POP.TOTL,Cayman Islands,CYM,67327
-"Population, total",SP.POP.TOTL,Central African Republic,CAF,4944703
-"Population, total",SP.POP.TOTL,Chad,TCD,16685223
-"Population, total",SP.POP.TOTL,Channel Islands,CHI,165639
-"Population, total",SP.POP.TOTL,Chile,CHL,19197744
-"Population, total",SP.POP.TOTL,China,CHN,1407745000
-"Population, total",SP.POP.TOTL,Colombia,COL,49907985
-"Population, total",SP.POP.TOTL,Comoros,COM,786578
-"Population, total",SP.POP.TOTL,"Congo, Dem. Rep.",COD,92947442
-"Population, total",SP.POP.TOTL,"Congo, Rep.",COG,5616661
-"Population, total",SP.POP.TOTL,Costa Rica,CRI,4999553
-"Population, total",SP.POP.TOTL,Cote d'Ivoire,CIV,28193009
-"Population, total",SP.POP.TOTL,Croatia,HRV,3949390
-"Population, total",SP.POP.TOTL,Cuba,CUB,11202846
-"Population, total",SP.POP.TOTL,Curacao,CUW,157441
-"Population, total",SP.POP.TOTL,Cyprus,CYP,1286671
-"Population, total",SP.POP.TOTL,Czechia,CZE,10671870
-"Population, total",SP.POP.TOTL,Denmark,DNK,5814422
-"Population, total",SP.POP.TOTL,Djibouti,DJI,1088709
-"Population, total",SP.POP.TOTL,Dominica,DMA,67880
-"Population, total",SP.POP.TOTL,Dominican Republic,DOM,10894043
-"Population, total",SP.POP.TOTL,Ecuador,ECU,17340021
-"Population, total",SP.POP.TOTL,"Egypt, Arab Rep.",EGY,107553158
-"Population, total",SP.POP.TOTL,El Salvador,SLV,6222318
-"Population, total",SP.POP.TOTL,Equatorial Guinea,GNQ,1670177
-"Population, total",SP.POP.TOTL,Eritrea,ERI,3240194
-"Population, total",SP.POP.TOTL,Estonia,EST,1326898
-"Population, total",SP.POP.TOTL,Eswatini,SWZ,1179874
-"Population, total",SP.POP.TOTL,Ethiopia,ETH,115737383
-"Population, total",SP.POP.TOTL,Faroe Islands,FRO,51795
-"Population, total",SP.POP.TOTL,Fiji,FJI,914899
-"Population, total",SP.POP.TOTL,Finland,FIN,5521606
-"Population, total",SP.POP.TOTL,France,FRA,67382061
-"Population, total",SP.POP.TOTL,French Polynesia,PYF,279034
-"Population, total",SP.POP.TOTL,Gabon,GAB,2267706
-"Population, total",SP.POP.TOTL,"Gambia, The",GMB,2456844
-"Population, total",SP.POP.TOTL,Georgia,GEO,3720161
-"Population, total",SP.POP.TOTL,Germany,DEU,83092962
-"Population, total",SP.POP.TOTL,Ghana,GHA,31258945
-"Population, total",SP.POP.TOTL,Gibraltar,GIB,35494
-"Population, total",SP.POP.TOTL,Greece,GRC,10721582
-"Population, total",SP.POP.TOTL,Greenland,GRL,56225
-"Population, total",SP.POP.TOTL,Grenada,GRD,115981
-"Population, total",SP.POP.TOTL,Guam,GUM,161808
-"Population, total",SP.POP.TOTL,Guatemala,GTM,17103803
-"Population, total",SP.POP.TOTL,Guinea,GIN,13034346
-"Population, total",SP.POP.TOTL,Guinea-Bissau,GNB,1967696
-"Population, total",SP.POP.TOTL,Guyana,GUY,807665
-"Population, total",SP.POP.TOTL,Haiti,HTI,11105163
-"Population, total",SP.POP.TOTL,Honduras,HND,9943633
-"Population, total",SP.POP.TOTL,"Hong Kong SAR, China",HKG,7507900
-"Population, total",SP.POP.TOTL,Hungary,HUN,9771141
-"Population, total",SP.POP.TOTL,Iceland,ISL,360563
-"Population, total",SP.POP.TOTL,India,IND,1389030312
-"Population, total",SP.POP.TOTL,Indonesia,IDN,272489381
-"Population, total",SP.POP.TOTL,"Iran, Islamic Rep.",IRN,87051648
-"Population, total",SP.POP.TOTL,Iraq,IRQ,41192171
-"Population, total",SP.POP.TOTL,Ireland,IRL,4934340
-"Population, total",SP.POP.TOTL,Isle of Man,IMN,83957
-"Population, total",SP.POP.TOTL,Israel,ISR,9054000
-"Population, total",SP.POP.TOTL,Italy,ITA,59729081
-"Population, total",SP.POP.TOTL,Jamaica,JAM,2823271
-"Population, total",SP.POP.TOTL,Japan,JPN,126633000
-"Population, total",SP.POP.TOTL,Jordan,JOR,10671891
-"Population, total",SP.POP.TOTL,Kazakhstan,KAZ,19209555
-"Population, total",SP.POP.TOTL,Kenya,KEN,51202827
-"Population, total",SP.POP.TOTL,Kiribati,KIR,123921
-"Population, total",SP.POP.TOTL,"Korea, Dem. People's Rep.",PRK,26037632
-"Population, total",SP.POP.TOTL,"Korea, Rep.",KOR,51764822
-"Population, total",SP.POP.TOTL,Kosovo,XKX,1788891
-"Population, total",SP.POP.TOTL,Kuwait,KWT,4442316
-"Population, total",SP.POP.TOTL,Kyrgyz Republic,KGZ,6590211
-"Population, total",SP.POP.TOTL,Lao PDR,LAO,7237636
-"Population, total",SP.POP.TOTL,Latvia,LVA,1913822
-"Population, total",SP.POP.TOTL,Lebanon,LBN,5794594
-"Population, total",SP.POP.TOTL,Lesotho,LSO,2209405
-"Population, total",SP.POP.TOTL,Liberia,LBR,5043721
-"Population, total",SP.POP.TOTL,Libya,LBY,6951033
-"Population, total",SP.POP.TOTL,Liechtenstein,LIE,38563
-"Population, total",SP.POP.TOTL,Lithuania,LTU,2794137
-"Population, total",SP.POP.TOTL,Luxembourg,LUX,620001
-"Population, total",SP.POP.TOTL,"Macao SAR, China",MAC,672000
-"Population, total",SP.POP.TOTL,Madagascar,MDG,28219554
-"Population, total",SP.POP.TOTL,Malawi,MWI,19025752
-"Population, total",SP.POP.TOTL,Malaysia,MYS,33440596
-"Population, total",SP.POP.TOTL,Maldives,MDV,487731
-"Population, total",SP.POP.TOTL,Mali,MLI,21068405
-"Population, total",SP.POP.TOTL,Malta,MLT,504062
-"Population, total",SP.POP.TOTL,Marshall Islands,MHL,44007
-"Population, total",SP.POP.TOTL,Mauritania,MRT,4467708
-"Population, total",SP.POP.TOTL,Mauritius,MUS,1265985
-"Population, total",SP.POP.TOTL,Mexico,MEX,125762982
-"Population, total",SP.POP.TOTL,"Micronesia, Fed. Sts.",FSM,110282
-"Population, total",SP.POP.TOTL,Moldova,MDA,2664224
-"Population, total",SP.POP.TOTL,Monaco,MCO,38109
-"Population, total",SP.POP.TOTL,Mongolia,MNG,3267673
-"Population, total",SP.POP.TOTL,Montenegro,MNE,622028
-"Population, total",SP.POP.TOTL,Morocco,MAR,36210898
-"Population, total",SP.POP.TOTL,Mozambique,MOZ,29884380
-"Population, total",SP.POP.TOTL,Myanmar,MMR,52640713
-"Population, total",SP.POP.TOTL,Namibia,NAM,2650494
-"Population, total",SP.POP.TOTL,Nauru,NRU,11587
-"Population, total",SP.POP.TOTL,Nepal,NPL,28414064
-"Population, total",SP.POP.TOTL,Netherlands,NLD,17344874
-"Population, total",SP.POP.TOTL,New Caledonia,NCL,283606
-"Population, total",SP.POP.TOTL,New Zealand,NZL,4979200
-"Population, total",SP.POP.TOTL,Nicaragua,NIC,6483657
-"Population, total",SP.POP.TOTL,Niger,NER,22947757
-"Population, total",SP.POP.TOTL,Nigeria,NGA,209485641
-"Population, total",SP.POP.TOTL,North Macedonia,MKD,1876262
-"Population, total",SP.POP.TOTL,Northern Mariana Islands,MNP,48129
-"Population, total",SP.POP.TOTL,Norway,NOR,5347896
-"Population, total",SP.POP.TOTL,Oman,OMN,4591241
-"Population, total",SP.POP.TOTL,Pakistan,PAK,230800899
-"Population, total",SP.POP.TOTL,Palau,PLW,17798
-"Population, total",SP.POP.TOTL,Panama,PAN,4234700
-"Population, total",SP.POP.TOTL,Papua New Guinea,PNG,9609010
-"Population, total",SP.POP.TOTL,Paraguay,PRY,6515058
-"Population, total",SP.POP.TOTL,Peru,PER,32449303
-"Population, total",SP.POP.TOTL,Philippines,PHL,110804683
-"Population, total",SP.POP.TOTL,Poland,POL,37965475
-"Population, total",SP.POP.TOTL,Portugal,PRT,10286263
-"Population, total",SP.POP.TOTL,Puerto Rico,PRI,3193694
-"Population, total",SP.POP.TOTL,Qatar,QAT,2638657
-"Population, total",SP.POP.TOTL,Romania,ROU,19371648
-"Population, total",SP.POP.TOTL,Russian Federation,RUS,145453291
-"Population, total",SP.POP.TOTL,Rwanda,RWA,12776103
-"Population, total",SP.POP.TOTL,Samoa,WSM,209780
-"Population, total",SP.POP.TOTL,San Marino,SMR,34663
-"Population, total",SP.POP.TOTL,Sao Tome and Principe,STP,213392
-"Population, total",SP.POP.TOTL,Saudi Arabia,SAU,30063799
-"Population, total",SP.POP.TOTL,Senegal,SEN,16352922
-"Population, total",SP.POP.TOTL,Serbia,SRB,6945235
-"Population, total",SP.POP.TOTL,Seychelles,SYC,97625
-"Population, total",SP.POP.TOTL,Sierra Leone,SLE,7731991
-"Population, total",SP.POP.TOTL,Singapore,SGP,5703569
-"Population, total",SP.POP.TOTL,Sint Maarten (Dutch part),SXM,40385
-"Population, total",SP.POP.TOTL,Slovak Republic,SVK,5454147
-"Population, total",SP.POP.TOTL,Slovenia,SVN,2088385
-"Population, total",SP.POP.TOTL,Solomon Islands,SLB,728147
-"Population, total",SP.POP.TOTL,Somalia,SOM,16030971
-"Population, total",SP.POP.TOTL,South Africa,ZAF,59587885
-"Population, total",SP.POP.TOTL,South Sudan,SSD,10423384
-"Population, total",SP.POP.TOTL,Spain,ESP,47134837
-"Population, total",SP.POP.TOTL,Sri Lanka,LKA,21803000
-"Population, total",SP.POP.TOTL,St. Kitts and Nevis,KNA,46952
-"Population, total",SP.POP.TOTL,St. Lucia,LCA,177661
-"Population, total",SP.POP.TOTL,St. Martin (French part),MAF,34267
-"Population, total",SP.POP.TOTL,St. Vincent and the Grenadines,VCT,104167
-"Population, total",SP.POP.TOTL,Sudan,SDN,45548175
-"Population, total",SP.POP.TOTL,Suriname,SUR,605768
-"Population, total",SP.POP.TOTL,Sweden,SWE,10278887
-"Population, total",SP.POP.TOTL,Switzerland,CHE,8575280
-"Population, total",SP.POP.TOTL,Syrian Arab Republic,SYR,20353534
-"Population, total",SP.POP.TOTL,Tajikistan,TJK,9529966
-"Population, total",SP.POP.TOTL,Tanzania,TZA,59174891
-"Population, total",SP.POP.TOTL,Thailand,THA,71522271
-"Population, total",SP.POP.TOTL,Timor-Leste,TLS,1300945
-"Population, total",SP.POP.TOTL,Togo,TGO,8463068
-"Population, total",SP.POP.TOTL,Tonga,TON,105669
-"Population, total",SP.POP.TOTL,Trinidad and Tobago,TTO,1363985
-"Population, total",SP.POP.TOTL,Tunisia,TUN,11875081
-"Population, total",SP.POP.TOTL,Turkiye,TUR,82579440
-"Population, total",SP.POP.TOTL,Turkmenistan,TKM,6803944
-"Population, total",SP.POP.TOTL,Turks and Caicos Islands,TCA,43166
-"Population, total",SP.POP.TOTL,Tuvalu,TUV,10581
-"Population, total",SP.POP.TOTL,Uganda,UGA,42999637
-"Population, total",SP.POP.TOTL,Ukraine,UKR,44957458
-"Population, total",SP.POP.TOTL,United Arab Emirates,ARE,9445785
-"Population, total",SP.POP.TOTL,United Kingdom,GBR,66836327
-"Population, total",SP.POP.TOTL,United States,USA,328329953
-"Population, total",SP.POP.TOTL,Uruguay,URY,3397206
-"Population, total",SP.POP.TOTL,Uzbekistan,UZB,32964701
-"Population, total",SP.POP.TOTL,Vanuatu,VUT,291985
-"Population, total",SP.POP.TOTL,"Venezuela, RB",VEN,28938098
-"Population, total",SP.POP.TOTL,Viet Nam,VNM,97173776
-"Population, total",SP.POP.TOTL,Virgin Islands (U.S.),VIR,106669
-"Population, total",SP.POP.TOTL,West Bank and Gaza,PSE,4685306
-"Population, total",SP.POP.TOTL,"Yemen, Rep.",YEM,35111408
-"Population, total",SP.POP.TOTL,Zambia,ZMB,18513839
-"Population, total",SP.POP.TOTL,Zimbabwe,ZWE,15271368
-"Population, total",SP.POP.TOTL,Africa Eastern and Southern,AFE,675950189
-"Population, total",SP.POP.TOTL,Africa Western and Central,AFW,463365429
-"Population, total",SP.POP.TOTL,Arab World,ARB,444281315
-"Population, total",SP.POP.TOTL,Caribbean small states,CSS,3079149
-"Population, total",SP.POP.TOTL,Central Europe and the Baltics,CEB,102282674
-"Population, total",SP.POP.TOTL,Early-demographic dividend,EAR,3355014793
-"Population, total",SP.POP.TOTL,East Asia & Pacific,EAS,2359771090
-"Population, total",SP.POP.TOTL,East Asia & Pacific (excluding high income),EAP,2112289891
-"Population, total",SP.POP.TOTL,East Asia & Pacific (IDA & IBRD countries),TEA,2086281644
-"Population, total",SP.POP.TOTL,Euro area,EMU,346454019
-"Population, total",SP.POP.TOTL,Europe & Central Asia,ECS,922811778
-"Population, total",SP.POP.TOTL,Europe & Central Asia (excluding high income),ECA,248858341
-"Population, total",SP.POP.TOTL,Europe & Central Asia (IDA & IBRD countries),TEC,462573906
-"Population, total",SP.POP.TOTL,European Union,EUU,447303223
-"Population, total",SP.POP.TOTL,Fragile and conflict affected situations,FCS,974824119
-"Population, total",SP.POP.TOTL,Heavily indebted poor countries (HIPC),HPC,824649053
-"Population, total",SP.POP.TOTL,High income,HIC,1383372477
-"Population, total",SP.POP.TOTL,IBRD only,IBD,4845715724
-"Population, total",SP.POP.TOTL,IDA & IBRD total,IBT,6594857152
-"Population, total",SP.POP.TOTL,IDA blend,IDB,585824310
-"Population, total",SP.POP.TOTL,IDA only,IDX,1163317118
-"Population, total",SP.POP.TOTL,IDA total,IDA,1749141428
-"Population, total",SP.POP.TOTL,Late-demographic dividend,LTE,2309008599
-"Population, total",SP.POP.TOTL,Latin America & Caribbean,LCN,640853375
-"Population, total",SP.POP.TOTL,Latin America & Caribbean (excluding high income),LAC,578311232
-"Population, total",SP.POP.TOTL,Latin America & the Caribbean (IDA & IBRD countries),TLA,625467307
-"Population, total",SP.POP.TOTL,Least developed countries: UN classification,LDC,1058013514
-"Population, total",SP.POP.TOTL,Low & middle income,LMY,6364581440
-"Population, total",SP.POP.TOTL,Low income,LIC,660718366
-"Population, total",SP.POP.TOTL,Lower middle income,LMC,2926690682
-"Population, total",SP.POP.TOTL,Middle East & North Africa,MEA,474057593
-"Population, total",SP.POP.TOTL,Middle East & North Africa (excluding high income),MNA,411833977
-"Population, total",SP.POP.TOTL,Middle East & North Africa (IDA & IBRD countries),TMN,407148671
-"Population, total",SP.POP.TOTL,Middle income,MIC,5703863074
-"Population, total",SP.POP.TOTL,North America,NAC,366012555
-"Population, total",SP.POP.TOTL,Not classified,INX,..
-"Population, total",SP.POP.TOTL,OECD members,OED,1362497757
-"Population, total",SP.POP.TOTL,Other small states,OSS,13761088
-"Population, total",SP.POP.TOTL,Pacific island small states,PSS,2568656
-"Population, total",SP.POP.TOTL,Post-demographic dividend,PST,1113651656
-"Population, total",SP.POP.TOTL,Pre-demographic dividend,PRE,972302503
-"Population, total",SP.POP.TOTL,Small states,SST,19408893
-"Population, total",SP.POP.TOTL,South Asia,SAS,1874070006
-"Population, total",SP.POP.TOTL,South Asia (IDA & IBRD),TSA,1874070006
-"Population, total",SP.POP.TOTL,Sub-Saharan Africa,SSF,1139315618
-"Population, total",SP.POP.TOTL,Sub-Saharan Africa (excluding high income),SSA,1139217993
-"Population, total",SP.POP.TOTL,Sub-Saharan Africa (IDA & IBRD countries),TSS,1139315618
-"Population, total",SP.POP.TOTL,Upper middle income,UMC,2777172392
-"Population, total",SP.POP.TOTL,World,WLD,7776892015
-GDP (current US$),NY.GDP.MKTP.CD,Afghanistan,AFG,18799444490.1128
-GDP (current US$),NY.GDP.MKTP.CD,Albania,ALB,15585105131.0644
-GDP (current US$),NY.GDP.MKTP.CD,Algeria,DZA,193459662090.677
-GDP (current US$),NY.GDP.MKTP.CD,American Samoa,ASM,647000000
-GDP (current US$),NY.GDP.MKTP.CD,Andorra,AND,3155149347.80639
-GDP (current US$),NY.GDP.MKTP.CD,Angola,AGO,70897962732.0277
-GDP (current US$),NY.GDP.MKTP.CD,Antigua and Barbuda,ATG,1725351851.85185
-GDP (current US$),NY.GDP.MKTP.CD,Argentina,ARG,447754683615.225
-GDP (current US$),NY.GDP.MKTP.CD,Armenia,ARM,13619290539.2116
-GDP (current US$),NY.GDP.MKTP.CD,Aruba,ABW,3395798882.68156
-GDP (current US$),NY.GDP.MKTP.CD,Australia,AUS,1392723834562.64
-GDP (current US$),NY.GDP.MKTP.CD,Austria,AUT,442983642371.842
-GDP (current US$),NY.GDP.MKTP.CD,Azerbaijan,AZE,48174235294.1176
-GDP (current US$),NY.GDP.MKTP.CD,"Bahamas, The",BHS,13016200000
-GDP (current US$),NY.GDP.MKTP.CD,Bahrain,BHR,40446808510.6383
-GDP (current US$),NY.GDP.MKTP.CD,Bangladesh,BGD,351231654603.692
-GDP (current US$),NY.GDP.MKTP.CD,Barbados,BRB,5788288000
-GDP (current US$),NY.GDP.MKTP.CD,Belarus,BLR,64410122847.3508
-GDP (current US$),NY.GDP.MKTP.CD,Belgium,BEL,536726344405.489
-GDP (current US$),NY.GDP.MKTP.CD,Belize,BLZ,2388300000
-GDP (current US$),NY.GDP.MKTP.CD,Benin,BEN,14391686309.033
-GDP (current US$),NY.GDP.MKTP.CD,Bermuda,BMU,7423465000
-GDP (current US$),NY.GDP.MKTP.CD,Bhutan,BTN,2735683570.28851
-GDP (current US$),NY.GDP.MKTP.CD,Bolivia,BOL,40895322843.7851
-GDP (current US$),NY.GDP.MKTP.CD,Bosnia and Herzegovina,BIH,20482608755.379
-GDP (current US$),NY.GDP.MKTP.CD,Botswana,BWA,16725908148.5481
-GDP (current US$),NY.GDP.MKTP.CD,Brazil,BRA,1873288205186.45
-GDP (current US$),NY.GDP.MKTP.CD,British Virgin Islands,VGB,..
-GDP (current US$),NY.GDP.MKTP.CD,Brunei Darussalam,BRN,13469235348.2211
-GDP (current US$),NY.GDP.MKTP.CD,Bulgaria,BGR,68631726289.2794
-GDP (current US$),NY.GDP.MKTP.CD,Burkina Faso,BFA,16032813503.3707
-GDP (current US$),NY.GDP.MKTP.CD,Burundi,BDI,2576518879.82353
-GDP (current US$),NY.GDP.MKTP.CD,Cabo Verde,CPV,2252177133.74705
-GDP (current US$),NY.GDP.MKTP.CD,Cambodia,KHM,36685356407.7206
-GDP (current US$),NY.GDP.MKTP.CD,Cameroon,CMR,39667757527.6578
-GDP (current US$),NY.GDP.MKTP.CD,Canada,CAN,1743725183672.52
-GDP (current US$),NY.GDP.MKTP.CD,Cayman Islands,CYM,5941896607.58643
-GDP (current US$),NY.GDP.MKTP.CD,Central African Republic,CAF,2221301351.43918
-GDP (current US$),NY.GDP.MKTP.CD,Chad,TCD,11314951091.7283
-GDP (current US$),NY.GDP.MKTP.CD,Channel Islands,CHI,10032440928.3488
-GDP (current US$),NY.GDP.MKTP.CD,Chile,CHL,278285058719.466
-GDP (current US$),NY.GDP.MKTP.CD,China,CHN,14279968506271.7
-GDP (current US$),NY.GDP.MKTP.CD,Colombia,COL,323031701192.84
-GDP (current US$),NY.GDP.MKTP.CD,Comoros,COM,1195019531.9011
-GDP (current US$),NY.GDP.MKTP.CD,"Congo, Dem. Rep.",COD,51775829877.2088
-GDP (current US$),NY.GDP.MKTP.CD,"Congo, Rep.",COG,13976637779.9763
-GDP (current US$),NY.GDP.MKTP.CD,Costa Rica,CRI,64417670521.3545
-GDP (current US$),NY.GDP.MKTP.CD,Cote d'Ivoire,CIV,60382894697.3557
-GDP (current US$),NY.GDP.MKTP.CD,Croatia,HRV,61467582193.6824
-GDP (current US$),NY.GDP.MKTP.CD,Cuba,CUB,103427600000
-GDP (current US$),NY.GDP.MKTP.CD,Curacao,CUW,3026124134.07821
-GDP (current US$),NY.GDP.MKTP.CD,Cyprus,CYP,26196667099.5303
-GDP (current US$),NY.GDP.MKTP.CD,Czechia,CZE,256794209028.77
-GDP (current US$),NY.GDP.MKTP.CD,Denmark,DNK,345401473012.615
-GDP (current US$),NY.GDP.MKTP.CD,Djibouti,DJI,3088853638.56832
-GDP (current US$),NY.GDP.MKTP.CD,Dominica,DMA,611537037.037037
-GDP (current US$),NY.GDP.MKTP.CD,Dominican Republic,DOM,88941372558.2397
-GDP (current US$),NY.GDP.MKTP.CD,Ecuador,ECU,107595829000
-GDP (current US$),NY.GDP.MKTP.CD,"Egypt, Arab Rep.",EGY,318678815489.749
-GDP (current US$),NY.GDP.MKTP.CD,El Salvador,SLV,26881140000
-GDP (current US$),NY.GDP.MKTP.CD,Equatorial Guinea,GNQ,11364133549.7478
-GDP (current US$),NY.GDP.MKTP.CD,Eritrea,ERI,..
-GDP (current US$),NY.GDP.MKTP.CD,Estonia,EST,31873748770.0313
-GDP (current US$),NY.GDP.MKTP.CD,Eswatini,SWZ,4594818143.27624
-GDP (current US$),NY.GDP.MKTP.CD,Ethiopia,ETH,95912607722.3032
-GDP (current US$),NY.GDP.MKTP.CD,Faroe Islands,FRO,3266432734.22819
-GDP (current US$),NY.GDP.MKTP.CD,Fiji,FJI,5444407214.31758
-GDP (current US$),NY.GDP.MKTP.CD,Finland,FIN,267014821129.411
-GDP (current US$),NY.GDP.MKTP.CD,France,FRA,2722793515171.76
-GDP (current US$),NY.GDP.MKTP.CD,French Polynesia,PYF,6022276196.13871
-GDP (current US$),NY.GDP.MKTP.CD,Gabon,GAB,16874405465.391
-GDP (current US$),NY.GDP.MKTP.CD,"Gambia, The",GMB,1813609692.49994
-GDP (current US$),NY.GDP.MKTP.CD,Georgia,GEO,17638337116.9126
-GDP (current US$),NY.GDP.MKTP.CD,Germany,DEU,3957208055215.68
-GDP (current US$),NY.GDP.MKTP.CD,Ghana,GHA,68337969247.7067
-GDP (current US$),NY.GDP.MKTP.CD,Gibraltar,GIB,..
-GDP (current US$),NY.GDP.MKTP.CD,Greece,GRC,207305649887.019
-GDP (current US$),NY.GDP.MKTP.CD,Greenland,GRL,2997309971.87623
-GDP (current US$),NY.GDP.MKTP.CD,Grenada,GRD,1213485185.18519
-GDP (current US$),NY.GDP.MKTP.CD,Guam,GUM,6355000000
-GDP (current US$),NY.GDP.MKTP.CD,Guatemala,GTM,77172317258.6478
-GDP (current US$),NY.GDP.MKTP.CD,Guinea,GIN,13442861496.4454
-GDP (current US$),NY.GDP.MKTP.CD,Guinea-Bissau,GNB,1588638853.59328
-GDP (current US$),NY.GDP.MKTP.CD,Guyana,GUY,5173760191.84652
-GDP (current US$),NY.GDP.MKTP.CD,Haiti,HTI,15016090929.5125
-GDP (current US$),NY.GDP.MKTP.CD,Honduras,HND,24882225741.8119
-GDP (current US$),NY.GDP.MKTP.CD,"Hong Kong SAR, China",HKG,363074545072.389
-GDP (current US$),NY.GDP.MKTP.CD,Hungary,HUN,164020460331.659
-GDP (current US$),NY.GDP.MKTP.CD,Iceland,ISL,24681343649.2952
-GDP (current US$),NY.GDP.MKTP.CD,India,IND,2835606256558.19
-GDP (current US$),NY.GDP.MKTP.CD,Indonesia,IDN,1119099871385.79
-GDP (current US$),NY.GDP.MKTP.CD,"Iran, Islamic Rep.",IRN,333519146339.191
-GDP (current US$),NY.GDP.MKTP.CD,Iraq,IRQ,233636097800.338
-GDP (current US$),NY.GDP.MKTP.CD,Ireland,IRL,407124824064.995
-GDP (current US$),NY.GDP.MKTP.CD,Isle of Man,IMN,7314967866.28289
-GDP (current US$),NY.GDP.MKTP.CD,Israel,ISR,399651065197.871
-GDP (current US$),NY.GDP.MKTP.CD,Italy,ITA,2019606796583.53
-GDP (current US$),NY.GDP.MKTP.CD,Jamaica,JAM,15830766570.7266
-GDP (current US$),NY.GDP.MKTP.CD,Japan,JPN,5117993853016.51
-GDP (current US$),NY.GDP.MKTP.CD,Jordan,JOR,44503006338.0282
-GDP (current US$),NY.GDP.MKTP.CD,Kazakhstan,KAZ,181667184854.501
-GDP (current US$),NY.GDP.MKTP.CD,Kenya,KEN,100378436207.371
-GDP (current US$),NY.GDP.MKTP.CD,Kiribati,KIR,216985362.338171
-GDP (current US$),NY.GDP.MKTP.CD,"Korea, Dem. People's Rep.",PRK,..
-GDP (current US$),NY.GDP.MKTP.CD,"Korea, Rep.",KOR,1651422932447.77
-GDP (current US$),NY.GDP.MKTP.CD,Kosovo,XKX,7899737577.47286
-GDP (current US$),NY.GDP.MKTP.CD,Kuwait,KWT,140856394870.02
-GDP (current US$),NY.GDP.MKTP.CD,Kyrgyz Republic,KGZ,9371275264.36735
-GDP (current US$),NY.GDP.MKTP.CD,Lao PDR,LAO,18740561512.5555
-GDP (current US$),NY.GDP.MKTP.CD,Latvia,LVA,33099503950.847
-GDP (current US$),NY.GDP.MKTP.CD,Lebanon,LBN,51605959131.2741
-GDP (current US$),NY.GDP.MKTP.CD,Lesotho,LSO,2390702295.82777
-GDP (current US$),NY.GDP.MKTP.CD,Liberia,LBR,3319596500
-GDP (current US$),NY.GDP.MKTP.CD,Libya,LBY,69254496471.6938
-GDP (current US$),NY.GDP.MKTP.CD,Liechtenstein,LIE,6436467007.11932
-GDP (current US$),NY.GDP.MKTP.CD,Lithuania,LTU,55122066225.796
-GDP (current US$),NY.GDP.MKTP.CD,Luxembourg,LUX,69890505323.5842
-GDP (current US$),NY.GDP.MKTP.CD,"Macao SAR, China",MAC,55082293844.1008
-GDP (current US$),NY.GDP.MKTP.CD,Madagascar,MDG,14104664678.5063
-GDP (current US$),NY.GDP.MKTP.CD,Malawi,MWI,11051865579.8121
-GDP (current US$),NY.GDP.MKTP.CD,Malaysia,MYS,365177721021.516
-GDP (current US$),NY.GDP.MKTP.CD,Maldives,MDV,5726094799.37709
-GDP (current US$),NY.GDP.MKTP.CD,Mali,MLI,17280250810.0321
-GDP (current US$),NY.GDP.MKTP.CD,Malta,MLT,16337793530.7788
-GDP (current US$),NY.GDP.MKTP.CD,Marshall Islands,MHL,232900000
-GDP (current US$),NY.GDP.MKTP.CD,Mauritania,MRT,7894764885.82312
-GDP (current US$),NY.GDP.MKTP.CD,Mauritius,MUS,14436346979.6355
-GDP (current US$),NY.GDP.MKTP.CD,Mexico,MEX,1304106203694.81
-GDP (current US$),NY.GDP.MKTP.CD,"Micronesia, Fed. Sts.",FSM,394000000
-GDP (current US$),NY.GDP.MKTP.CD,Moldova,MDA,11736797054.6965
-GDP (current US$),NY.GDP.MKTP.CD,Monaco,MCO,7383496254.23721
-GDP (current US$),NY.GDP.MKTP.CD,Mongolia,MNG,14206359017.5143
-GDP (current US$),NY.GDP.MKTP.CD,Montenegro,MNE,5542054181.12616
-GDP (current US$),NY.GDP.MKTP.CD,Morocco,MAR,128920266409.458
-GDP (current US$),NY.GDP.MKTP.CD,Mozambique,MOZ,15512759046.672
-GDP (current US$),NY.GDP.MKTP.CD,Myanmar,MMR,75065106227.6892
-GDP (current US$),NY.GDP.MKTP.CD,Namibia,NAM,12541928303.48
-GDP (current US$),NY.GDP.MKTP.CD,Nauru,NRU,124871111.377973
-GDP (current US$),NY.GDP.MKTP.CD,Nepal,NPL,34186180699.0255
-GDP (current US$),NY.GDP.MKTP.CD,Netherlands,NLD,928903005576.469
-GDP (current US$),NY.GDP.MKTP.CD,New Caledonia,NCL,9475655324.59495
-GDP (current US$),NY.GDP.MKTP.CD,New Zealand,NZL,212846907683.439
-GDP (current US$),NY.GDP.MKTP.CD,Nicaragua,NIC,12699028889.666
-GDP (current US$),NY.GDP.MKTP.CD,Niger,NER,12889555561.2299
-GDP (current US$),NY.GDP.MKTP.CD,Nigeria,NGA,474517490844.461
-GDP (current US$),NY.GDP.MKTP.CD,North Macedonia,MKD,12606338448.547
-GDP (current US$),NY.GDP.MKTP.CD,Northern Mariana Islands,MNP,1179000000
-GDP (current US$),NY.GDP.MKTP.CD,Norway,NOR,408742840909.091
-GDP (current US$),NY.GDP.MKTP.CD,Oman,OMN,88060858257.4772
-GDP (current US$),NY.GDP.MKTP.CD,Pakistan,PAK,320909472770.669
-GDP (current US$),NY.GDP.MKTP.CD,Palau,PLW,281941562.5
-GDP (current US$),NY.GDP.MKTP.CD,Panama,PAN,69778991200
-GDP (current US$),NY.GDP.MKTP.CD,Papua New Guinea,PNG,24750626040.5917
-GDP (current US$),NY.GDP.MKTP.CD,Paraguay,PRY,37925338329.1494
-GDP (current US$),NY.GDP.MKTP.CD,Peru,PER,228346006003.648
-GDP (current US$),NY.GDP.MKTP.CD,Philippines,PHL,376823402244.928
-GDP (current US$),NY.GDP.MKTP.CD,Poland,POL,602683770144.88
-GDP (current US$),NY.GDP.MKTP.CD,Portugal,PRT,240115970063.019
-GDP (current US$),NY.GDP.MKTP.CD,Puerto Rico,PRI,105126400000
-GDP (current US$),NY.GDP.MKTP.CD,Qatar,QAT,176371267689.082
-GDP (current US$),NY.GDP.MKTP.CD,Romania,ROU,251677082534.495
-GDP (current US$),NY.GDP.MKTP.CD,Russian Federation,RUS,1693115002708.32
-GDP (current US$),NY.GDP.MKTP.CD,Rwanda,RWA,10349300380.33
-GDP (current US$),NY.GDP.MKTP.CD,Samoa,WSM,912950466.064906
-GDP (current US$),NY.GDP.MKTP.CD,San Marino,SMR,1616232125.12587
-GDP (current US$),NY.GDP.MKTP.CD,Sao Tome and Principe,STP,412976082.620705
-GDP (current US$),NY.GDP.MKTP.CD,Saudi Arabia,SAU,838564800000
-GDP (current US$),NY.GDP.MKTP.CD,Senegal,SEN,23403995992.1354
-GDP (current US$),NY.GDP.MKTP.CD,Serbia,SRB,53864693664.5568
-GDP (current US$),NY.GDP.MKTP.CD,Seychelles,SYC,1868690096.73454
-GDP (current US$),NY.GDP.MKTP.CD,Sierra Leone,SLE,6523577590.38319
-GDP (current US$),NY.GDP.MKTP.CD,Singapore,SGP,376901649222.451
-GDP (current US$),NY.GDP.MKTP.CD,Sint Maarten (Dutch part),SXM,1407880446.92737
-GDP (current US$),NY.GDP.MKTP.CD,Slovak Republic,SVK,105843498304.094
-GDP (current US$),NY.GDP.MKTP.CD,Slovenia,SVN,53909922735.545
-GDP (current US$),NY.GDP.MKTP.CD,Solomon Islands,SLB,1619155017.3924
-GDP (current US$),NY.GDP.MKTP.CD,Somalia,SOM,8655023960.002
-GDP (current US$),NY.GDP.MKTP.CD,South Africa,ZAF,389330032224.269
-GDP (current US$),NY.GDP.MKTP.CD,South Sudan,SSD,..
-GDP (current US$),NY.GDP.MKTP.CD,Spain,ESP,1403496387686.27
-GDP (current US$),NY.GDP.MKTP.CD,Sri Lanka,LKA,89014978344.1404
-GDP (current US$),NY.GDP.MKTP.CD,St. Kitts and Nevis,KNA,1107855555.55556
-GDP (current US$),NY.GDP.MKTP.CD,St. Lucia,LCA,2095370370.37037
-GDP (current US$),NY.GDP.MKTP.CD,St. Martin (French part),MAF,652206037.103874
-GDP (current US$),NY.GDP.MKTP.CD,St. Vincent and the Grenadines,VCT,910766666.666667
-GDP (current US$),NY.GDP.MKTP.CD,Sudan,SDN,32338079165.2893
-GDP (current US$),NY.GDP.MKTP.CD,Suriname,SUR,4016040575.08796
-GDP (current US$),NY.GDP.MKTP.CD,Sweden,SWE,532169294165.94
-GDP (current US$),NY.GDP.MKTP.CD,Switzerland,CHE,721369112726.724
-GDP (current US$),NY.GDP.MKTP.CD,Syrian Arab Republic,SYR,22583045060.0821
-GDP (current US$),NY.GDP.MKTP.CD,Tajikistan,TJK,8300813599.3084
-GDP (current US$),NY.GDP.MKTP.CD,Tanzania,TZA,61026731925.9213
-GDP (current US$),NY.GDP.MKTP.CD,Thailand,THA,543976691793.886
-GDP (current US$),NY.GDP.MKTP.CD,Timor-Leste,TLS,2032550400
-GDP (current US$),NY.GDP.MKTP.CD,Togo,TGO,6992700101.37188
-GDP (current US$),NY.GDP.MKTP.CD,Tonga,TON,494197841.113077
-GDP (current US$),NY.GDP.MKTP.CD,Trinidad and Tobago,TTO,23775659262.5735
-GDP (current US$),NY.GDP.MKTP.CD,Tunisia,TUN,41905642418.825
-GDP (current US$),NY.GDP.MKTP.CD,Turkiye,TUR,761005915750.925
-GDP (current US$),NY.GDP.MKTP.CD,Turkmenistan,TKM,45232857142.8571
-GDP (current US$),NY.GDP.MKTP.CD,Turks and Caicos Islands,TCA,1177285211.72521
-GDP (current US$),NY.GDP.MKTP.CD,Tuvalu,TUV,54123198.5662913
-GDP (current US$),NY.GDP.MKTP.CD,Uganda,UGA,35348155095.4215
-GDP (current US$),NY.GDP.MKTP.CD,Ukraine,UKR,153883047509.577
-GDP (current US$),NY.GDP.MKTP.CD,United Arab Emirates,ARE,417989721734.494
-GDP (current US$),NY.GDP.MKTP.CD,United Kingdom,GBR,2851407164907.81
-GDP (current US$),NY.GDP.MKTP.CD,United States,USA,21539982000000
-GDP (current US$),NY.GDP.MKTP.CD,Uruguay,URY,62222325807.0578
-GDP (current US$),NY.GDP.MKTP.CD,Uzbekistan,UZB,67293639798.3996
-GDP (current US$),NY.GDP.MKTP.CD,Vanuatu,VUT,936526267.622513
-GDP (current US$),NY.GDP.MKTP.CD,"Venezuela, RB",VEN,..
-GDP (current US$),NY.GDP.MKTP.CD,Viet Nam,VNM,334365270496.667
-GDP (current US$),NY.GDP.MKTP.CD,Virgin Islands (U.S.),VIR,4121000000
-GDP (current US$),NY.GDP.MKTP.CD,West Bank and Gaza,PSE,17133500000
-GDP (current US$),NY.GDP.MKTP.CD,"Yemen, Rep.",YEM,..
-GDP (current US$),NY.GDP.MKTP.CD,Zambia,ZMB,23308667781.2258
-GDP (current US$),NY.GDP.MKTP.CD,Zimbabwe,ZWE,25717409842.4479
-GDP (current US$),NY.GDP.MKTP.CD,Africa Eastern and Southern,AFE,1009721174054.91
-GDP (current US$),NY.GDP.MKTP.CD,Africa Western and Central,AFW,826483769985.129
-GDP (current US$),NY.GDP.MKTP.CD,Arab World,ARB,2899029698316.63
-GDP (current US$),NY.GDP.MKTP.CD,Caribbean small states,CSS,38046955433.6011
-GDP (current US$),NY.GDP.MKTP.CD,Central Europe and the Baltics,CEB,1685123570509.08
-GDP (current US$),NY.GDP.MKTP.CD,Early-demographic dividend,EAR,11834959859719.9
-GDP (current US$),NY.GDP.MKTP.CD,East Asia & Pacific,EAS,27040135154758.5
-GDP (current US$),NY.GDP.MKTP.CD,East Asia & Pacific (excluding high income),EAP,17222812070662.6
-GDP (current US$),NY.GDP.MKTP.CD,East Asia & Pacific (IDA & IBRD countries),TEA,17201604143343.6
-GDP (current US$),NY.GDP.MKTP.CD,Euro area,EMU,13587020300289.4
-GDP (current US$),NY.GDP.MKTP.CD,Europe & Central Asia,ECS,23031892537932.9
-GDP (current US$),NY.GDP.MKTP.CD,Europe & Central Asia (excluding high income),ECA,1498314054530.37
-GDP (current US$),NY.GDP.MKTP.CD,Europe & Central Asia (IDA & IBRD countries),TEC,4175889218401.02
-GDP (current US$),NY.GDP.MKTP.CD,European Union,EUU,15808398315797
-GDP (current US$),NY.GDP.MKTP.CD,Fragile and conflict affected situations,FCS,1842632114099.19
-GDP (current US$),NY.GDP.MKTP.CD,Heavily indebted poor countries (HIPC),HPC,805115217775.604
-GDP (current US$),NY.GDP.MKTP.CD,High income,HIC,57351008372783
-GDP (current US$),NY.GDP.MKTP.CD,IBRD only,IBD,31298751631398.9
-GDP (current US$),NY.GDP.MKTP.CD,IDA & IBRD total,IBT,33801024892359.5
-GDP (current US$),NY.GDP.MKTP.CD,IDA blend,IDB,1092770923537.26
-GDP (current US$),NY.GDP.MKTP.CD,IDA only,IDX,1409009216106.54
-GDP (current US$),NY.GDP.MKTP.CD,IDA total,IDA,2501780139643.8
-GDP (current US$),NY.GDP.MKTP.CD,Late-demographic dividend,LTE,23070237789791.1
-GDP (current US$),NY.GDP.MKTP.CD,Latin America & Caribbean,LCN,5659312361702.85
-GDP (current US$),NY.GDP.MKTP.CD,Latin America & Caribbean (excluding high income),LAC,4803447002170.21
-GDP (current US$),NY.GDP.MKTP.CD,Latin America & the Caribbean (IDA & IBRD countries),TLA,5413333286802.23
-GDP (current US$),NY.GDP.MKTP.CD,Least developed countries: UN classification,LDC,1161448671597.72
-GDP (current US$),NY.GDP.MKTP.CD,Low & middle income,LMY,30495388425380.4
-GDP (current US$),NY.GDP.MKTP.CD,Low income,LIC,447114593744.199
-GDP (current US$),NY.GDP.MKTP.CD,Lower middle income,LMC,6298712117939.29
-GDP (current US$),NY.GDP.MKTP.CD,Middle East & North Africa,MEA,3598454815841.46
-GDP (current US$),NY.GDP.MKTP.CD,Middle East & North Africa (excluding high income),MNA,1480176106051.1
-GDP (current US$),NY.GDP.MKTP.CD,Middle East & North Africa (IDA & IBRD countries),TMN,1463042606051.1
-GDP (current US$),NY.GDP.MKTP.CD,Middle income,MIC,30047537869971.5
-GDP (current US$),NY.GDP.MKTP.CD,North America,NAC,23291130648672.5
-GDP (current US$),NY.GDP.MKTP.CD,Not classified,INX,..
-GDP (current US$),NY.GDP.MKTP.CD,OECD members,OED,54179480252802.3
-GDP (current US$),NY.GDP.MKTP.CD,Other small states,OSS,198507093590.896
-GDP (current US$),NY.GDP.MKTP.CD,Pacific island small states,PSS,10712120523.0197
-GDP (current US$),NY.GDP.MKTP.CD,Post-demographic dividend,PST,51134888557957.7
-GDP (current US$),NY.GDP.MKTP.CD,Pre-demographic dividend,PRE,1428927764664.17
-GDP (current US$),NY.GDP.MKTP.CD,Small states,SST,247266169547.517
-GDP (current US$),NY.GDP.MKTP.CD,South Asia,SAS,3658209765835.5
-GDP (current US$),NY.GDP.MKTP.CD,South Asia (IDA & IBRD),TSA,3658209765835.5
-GDP (current US$),NY.GDP.MKTP.CD,Sub-Saharan Africa,SSF,1836204944040.04
-GDP (current US$),NY.GDP.MKTP.CD,Sub-Saharan Africa (excluding high income),SSA,1834336253943.3
-GDP (current US$),NY.GDP.MKTP.CD,Sub-Saharan Africa (IDA & IBRD countries),TSS,1836204944040.04
-GDP (current US$),NY.GDP.MKTP.CD,Upper middle income,UMC,23748825752032.3
-GDP (current US$),NY.GDP.MKTP.CD,World,WLD,88149850742946
+Series Name,Series Code,Country Name,Country Code,2018 [YR2018]
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Afghanistan,AFG,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Albania,ALB,44.4460249326456
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Algeria,DZA,26.0989006586763
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,American Samoa,ASM,94.8995363214838
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Albania,ALB,44.5800603046607
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Algeria,DZA,29.0130619390143
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,American Samoa,ASM,103.599374021909
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Andorra,AND,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Angola,AGO,17.0387830650203
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Antigua and Barbuda,ATG,68.4165333963013
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Argentina,ARG,14.7057366680037
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Armenia,ARM,54.7633527667858
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Aruba,ABW,72.1089811926666
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Australia,AUS,22.0278238953145
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Austria,AUT,52.3114775114917
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Azerbaijan,AZE,36.7675179068137
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Bahamas, The",BHS,36.9832209093284
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bahrain,BHR,62.3231194108364
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bangladesh,BGD,18.4832971559365
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Angola,AGO,25.541723496358
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Antigua and Barbuda,ATG,68.1846045477951
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Argentina,ARG,16.3258502050892
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Armenia,ARM,53.0802129926047
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Aruba,ABW,72.9607783956333
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Australia,AUS,21.8419745445958
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Austria,AUT,52.6757304983207
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Azerbaijan,AZE,37.5802826749238
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Bahamas, The",BHS,40.3641465463942
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bahrain,BHR,68.3599998924555
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bangladesh,BGD,19.8398437797492
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Barbados,BRB,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Belarus,BLR,65.7557224712763
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Belgium,BEL,82.4980513923498
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Belize,BLZ,50.2658794958757
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Benin,BEN,34.0508051206822
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bermuda,BMU,25.816677252469
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bhutan,BTN,44.6660134237944
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bolivia,BOL,31.4300444470217
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bosnia and Herzegovina,BIH,54.4760567724708
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Botswana,BWA,46.0051637049108
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Brazil,BRA,14.7673386775793
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Belarus,BLR,68.9388489208633
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Belgium,BEL,84.7946361610806
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Belize,BLZ,49.1006213888586
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Benin,BEN,34.5209638714363
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bermuda,BMU,26.0761139981486
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bhutan,BTN,50.5500011526558
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bolivia,BOL,31.1211695675762
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bosnia and Herzegovina,BIH,56.4475276333556
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Botswana,BWA,43.2269600709101
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Brazil,BRA,14.2412038806757
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,British Virgin Islands,VGB,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Brunei Darussalam,BRN,50.563617894146
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bulgaria,BGR,60.8476760586327
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Burkina Faso,BFA,31.1509972180432
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Burundi,BDI,23.8541700005272
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cabo Verde,CPV,56.8976233266308
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cambodia,KHM,60.289811099536
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cameroon,CMR,23.528422500723
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Canada,CAN,33.8187894602395
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cayman Islands,CYM,45.3675141253948
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Central African Republic,CAF,34.3104199996784
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Chad,TCD,37.8282721194732
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Brunei Darussalam,BRN,41.9648218869805
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Bulgaria,BGR,63.100431152185
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Burkina Faso,BFA,32.5167194817269
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Burundi,BDI,20.9140481504705
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cabo Verde,CPV,60.0015305876965
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cambodia,KHM,62.9662580564288
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cameroon,CMR,21.8513494080099
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Canada,CAN,34.2744821243903
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cayman Islands,CYM,45.5292735739521
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Central African Republic,CAF,33.7201700016618
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Chad,TCD,38.0140712835805
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Channel Islands,CHI,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Chile,CHL,29.7370868110317
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,China,CHN,17.4801037187624
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Colombia,COL,21.6904953267149
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Comoros,COM,29.4946179024958
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Congo, Dem. Rep.",COD,29.3674929390241
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Congo, Rep.",COG,35.3769404227539
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Costa Rica,CRI,31.4352084583314
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cote d'Ivoire,CIV,21.9999218180343
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Croatia,HRV,50.8927782779613
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cuba,CUB,10.6074200696913
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Curacao,CUW,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cyprus,CYP,74.7473019574414
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Czechia,CZE,66.0297588552233
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Denmark,DNK,52.9408671489359
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Djibouti,DJI,154.221256626515
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Dominica,DMA,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Dominican Republic,DOM,27.9418628796634
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Ecuador,ECU,24.0342151181344
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Egypt, Arab Rep.",EGY,24.4799857040743
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,El Salvador,SLV,46.0861034911466
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Equatorial Guinea,GNQ,43.7480428771542
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Chile,CHL,29.6480058934679
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,China,CHN,18.4536805657234
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Colombia,COL,20.6350331193542
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Comoros,COM,30.087130352257
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Congo, Dem. Rep.",COD,37.3662008854446
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Congo, Rep.",COG,38.372624484659
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Costa Rica,CRI,33.2068312404824
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cote d'Ivoire,CIV,23.3433087934287
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Croatia,HRV,49.9586073447811
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cuba,CUB,12.5607151085146
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Curacao,CUW,92.0228579057409
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Cyprus,CYP,73.1124327895079
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Czechia,CZE,69.5319364042301
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Denmark,DNK,51.8306171211701
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Djibouti,DJI,143.778811648303
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Dominica,DMA,77.7672443720458
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Dominican Republic,DOM,28.5045350822178
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Ecuador,ECU,24.4654772531205
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Egypt, Arab Rep.",EGY,27.9263640649779
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,El Salvador,SLV,46.69924310697
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Equatorial Guinea,GNQ,44.0311468985135
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Eritrea,ERI,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Estonia,EST,68.3329936436289
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Estonia,EST,70.5847297075262
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Eswatini,SWZ,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Ethiopia,ETH,20.8753243982814
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Faroe Islands,FRO,52.853529673679
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Fiji,FJI,58.9505618148068
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Finland,FIN,39.9458321803805
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,France,FRA,33.5394177830602
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,French Polynesia,PYF,42.7137533727575
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Gabon,GAB,21.9970162214648
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Gambia, The",GMB,35.8320203806507
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Georgia,GEO,63.5057718296264
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Germany,DEU,36.747442628887
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Ghana,GHA,39.3752028696209
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Ethiopia,ETH,22.8266990770053
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Faroe Islands,FRO,54.0561614716809
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Fiji,FJI,55.4866241995596
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Finland,FIN,39.9943942562687
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,France,FRA,33.8842788890102
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,French Polynesia,PYF,44.0354941009849
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Gabon,GAB,22.7375212062962
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Gambia, The",GMB,42.5242842292877
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Georgia,GEO,60.1521994975096
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Germany,DEU,36.6202679583694
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Ghana,GHA,34.5036220155637
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Gibraltar,GIB,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Greece,GRC,41.0298090980773
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Greenland,GRL,51.148051064511
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Greece,GRC,40.6071874522328
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Greenland,GRL,45.3221117220578
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Grenada,GRD,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Guam,GUM,55.8143194335169
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Guatemala,GTM,27.9047665962287
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Guinea,GIN,43.3732638929645
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Guinea-Bissau,GNB,31.8137818932296
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Guam,GUM,53.7101305569327
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Guatemala,GTM,28.8423555448314
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Guinea,GIN,48.7770160108349
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Guinea-Bissau,GNB,29.3620739934989
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Guyana,GUY,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Haiti,HTI,34.0110453423444
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Honduras,HND,59.2410142548624
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Hong Kong SAR, China",HKG,176.092205965367
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Hungary,HUN,79.2216026672883
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Iceland,ISL,39.1494973417951
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,India,IND,21.2411386333872
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Indonesia,IDN,19.0362497386225
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Iran, Islamic Rep.",IRN,27.2704670825754
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Iraq,IRQ,30.9380702213968
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Ireland,IRL,122.47422278388
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Haiti,HTI,34.3577537109868
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Honduras,HND,62.0963456541272
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Hong Kong SAR, China",HKG,188.553266542735
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Hungary,HUN,79.5051964069182
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Iceland,ISL,42.5901445762183
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,India,IND,23.6891407335327
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Indonesia,IDN,22.0715624579547
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Iran, Islamic Rep.",IRN,27.4487096151447
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Iraq,IRQ,24.9991497435766
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Ireland,IRL,93.4580448835333
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Isle of Man,IMN,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Israel,ISR,27.412213789001
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Italy,ITA,27.7443163412796
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Jamaica,JAM,52.0745268861888
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Japan,JPN,17.7528916808924
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Jordan,JOR,49.3528930606033
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kazakhstan,KAZ,28.419629452657
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kenya,KEN,20.3314661545478
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kiribati,KIR,83.3316472192665
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Israel,ISR,29.1403242228951
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Italy,ITA,28.4614762392164
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Jamaica,JAM,51.414057756045
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Japan,JPN,18.2949862035848
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Jordan,JOR,52.8367993528309
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kazakhstan,KAZ,25.9027380865315
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kenya,KEN,21.8727778433835
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kiribati,KIR,74.315739403455
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Korea, Dem. People's Rep.",PRK,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Korea, Rep.",KOR,36.4812778978581
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kosovo,XKX,56.440801046233
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kuwait,KWT,39.6274563105372
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kyrgyz Republic,KGZ,60.9538126942615
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Korea, Rep.",KOR,37.2755746703469
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kosovo,XKX,57.2616199514324
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kuwait,KWT,45.4741679111424
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Kyrgyz Republic,KGZ,67.2738298966465
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Lao PDR,LAO,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Latvia,LVA,62.7547886916228
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Lebanon,LBN,42.2831570534023
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Lesotho,LSO,94.3073053135637
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Latvia,LVA,64.3642768665985
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Lebanon,LBN,47.5027861456152
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Lesotho,LSO,94.6018440436975
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Liberia,LBR,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Libya,LBY,36.6386467842538
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Libya,LBY,24.1676291797669
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Liechtenstein,LIE,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Lithuania,LTU,71.5562730231805
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Luxembourg,LUX,175.936719409835
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Macao SAR, China",MAC,31.9966707157961
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Madagascar,MDG,34.1769218025153
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Lithuania,LTU,72.6726133935094
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Luxembourg,LUX,164.922567034797
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Macao SAR, China",MAC,33.1955190145603
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Madagascar,MDG,36.305481014417
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Malawi,MWI,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Malaysia,MYS,57.7507951850853
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Maldives,MDV,71.6118129174731
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mali,MLI,37.9534116337441
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Malta,MLT,108.5502779467
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Marshall Islands,MHL,115.945856590812
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mauritania,MRT,51.089170094471
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mauritius,MUS,51.824810391558
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mexico,MEX,38.9323214713109
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Micronesia, Fed. Sts.",FSM,69.0552538071066
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Moldova,MDA,56.4411521569138
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Malaysia,MYS,61.8476540824403
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Maldives,MDV,76.0428279296284
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mali,MLI,35.622374290146
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Malta,MLT,104.749143960719
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Marshall Islands,MHL,88.7565
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mauritania,MRT,52.5604790922211
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mauritius,MUS,51.9909128541917
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mexico,MEX,41.1687312149645
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Micronesia, Fed. Sts.",FSM,67.0332142857143
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Moldova,MDA,56.7504174845453
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Monaco,MCO,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mongolia,MNG,65.1792814405109
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Montenegro,MNE,64.9979386824171
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Morocco,MAR,41.9050584109511
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mozambique,MOZ,68.4491150410889
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mongolia,MNG,68.1910909645864
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Montenegro,MNE,66.7342964918413
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Morocco,MAR,43.4264501517272
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Mozambique,MOZ,79.0764216850568
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Myanmar,MMR,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Namibia,NAM,46.5002688810536
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Nauru,NRU,95.6494332016505
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Nepal,NPL,41.4695901124501
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Netherlands,NLD,75.3557323923463
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Namibia,NAM,45.8313007368101
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Nauru,NRU,85.8368065709318
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Nepal,NPL,40.6317459241789
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Netherlands,NLD,76.5026871237804
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,New Caledonia,NCL,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,New Zealand,NZL,27.1141375841523
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Nicaragua,NIC,49.2377809583133
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Niger,NER,26.3431895090269
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,New Zealand,NZL,27.9152635928054
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Nicaragua,NIC,51.7075924357889
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Niger,NER,26.2431112441787
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Nigeria,NGA,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,North Macedonia,MKD,76.1681750526576
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Northern Mariana Islands,MNP,62.25614927905
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Norway,NOR,34.2548952066717
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Oman,OMN,36.9852980265451
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Pakistan,PAK,19.5147124206658
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Palau,PLW,77.1455609706355
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Panama,PAN,40.2144760441879
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,North Macedonia,MKD,72.8400703306813
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Northern Mariana Islands,MNP,58.032282859339
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Norway,NOR,31.7821685011468
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Oman,OMN,38.6567758071851
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Pakistan,PAK,19.0442566575342
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Palau,PLW,74.9170285832613
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Panama,PAN,43.78385701834
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Papua New Guinea,PNG,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Paraguay,PRY,35.1348707907966
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Peru,PER,22.9044179405342
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Philippines,PHL,40.4589222463066
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Poland,POL,48.9681403361987
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Portugal,PRT,43.1178629650595
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Puerto Rico,PRI,46.9925727505175
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Qatar,QAT,37.857515622945
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Romania,ROU,44.2883976070999
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Russian Federation,RUS,20.7953229819275
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Rwanda,RWA,36.1502193247898
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Samoa,WSM,48.2977494392677
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,San Marino,SMR,143.267538916062
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Paraguay,PRY,35.2160000894818
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Peru,PER,23.4392854994888
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Philippines,PHL,41.9497929261592
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Poland,POL,50.2098867240303
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Portugal,PRT,43.0581149209879
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Puerto Rico,PRI,46.0472215701365
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Qatar,QAT,35.8965858065867
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Romania,ROU,44.9948591183776
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Russian Federation,RUS,20.7876435683221
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Rwanda,RWA,34.6761153853403
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Samoa,WSM,46.9692902258758
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,San Marino,SMR,142.890458767935
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sao Tome and Principe,STP,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Saudi Arabia,SAU,26.1089900267695
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Senegal,SEN,39.253116408714
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Serbia,SRB,58.6163138900993
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Seychelles,SYC,91.0515782587732
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sierra Leone,SLE,27.8678121639067
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Singapore,SGP,146.77034130281
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Saudi Arabia,SAU,24.7570706925938
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Senegal,SEN,38.8407480009875
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Serbia,SRB,56.8935027873898
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Seychelles,SYC,98.6631327999028
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sierra Leone,SLE,26.1386343633649
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Singapore,SGP,148.492855677385
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sint Maarten (Dutch part),SXM,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Slovak Republic,SVK,91.8785221191079
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Slovenia,SVN,75.687217335396
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Solomon Islands,SLB,46.5014356959347
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Somalia,SOM,57.2430535478131
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,South Africa,ZAF,26.6958670030255
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Slovak Republic,SVK,93.8061320518596
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Slovenia,SVN,77.0448569241837
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Solomon Islands,SLB,46.3684411267913
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Somalia,SOM,59.608500290206
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,South Africa,ZAF,26.9885079767917
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,South Sudan,SSD,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Spain,ESP,31.6906621148431
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sri Lanka,LKA,27.6019929599505
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Spain,ESP,32.1345964120382
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sri Lanka,LKA,28.3631481367583
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,St. Kitts and Nevis,KNA,..
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,St. Lucia,LCA,..
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,St. Martin (French part),MAF,..
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,St. Vincent and the Grenadines,VCT,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sudan,SDN,17.666637037634
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sudan,SDN,14.2177167427683
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Suriname,SUR,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sweden,SWE,44.2798696637669
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Switzerland,CHE,57.1622185006251
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Syrian Arab Republic,SYR,28.9894046595335
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Tajikistan,TJK,41.0650766403151
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Tanzania,TZA,16.9818431017325
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Thailand,THA,50.1706240932801
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Timor-Leste,TLS,49.3999263191702
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Togo,TGO,32.3299406897562
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Tonga,TON,67.5491037710798
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sweden,SWE,44.2387507945047
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Switzerland,CHE,56.950318222608
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Syrian Arab Republic,SYR,35.7420714018735
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Tajikistan,TJK,41.470632937044
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Tanzania,TZA,17.9034665112026
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Thailand,THA,56.0037678316517
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Timor-Leste,TLS,61.8876513619701
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Togo,TGO,33.1318512447495
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Tonga,TON,66.0735977475851
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Trinidad and Tobago,TTO,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Tunisia,TUN,56.383178565707
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Turkiye,TUR,30.1190768431148
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Turkmenistan,TKM,19.552158671004
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Tunisia,TUN,58.3889083112435
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Turkiye,TUR,31.3815223078694
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Turkmenistan,TKM,21.0002873583358
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Turks and Caicos Islands,TCA,..
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Tuvalu,TUV,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Uganda,UGA,22.2519959480052
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Ukraine,UKR,49.2795430350714
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,United Arab Emirates,ARE,73.2085188940452
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,United Kingdom,GBR,33.0303533562736
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,United States,USA,14.4692832148142
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Uruguay,URY,21.8395058400117
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Uzbekistan,UZB,39.6137894655513
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Vanuatu,VUT,49.0376919497441
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Uganda,UGA,21.5513525388056
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Ukraine,UKR,53.9645794092748
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,United Arab Emirates,ARE,65.9257962668894
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,United Kingdom,GBR,32.9625368906995
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,United States,USA,15.1582483706352
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Uruguay,URY,21.3697668863319
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Uzbekistan,UZB,39.9611620983855
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Vanuatu,VUT,56.7439368078435
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Venezuela, RB",VEN,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Viet Nam,VNM,79.5466276240671
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Virgin Islands (U.S.),VIR,100.461053142441
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,West Bank and Gaza,PSE,53.4724370385502
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Yemen, Rep.",YEM,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Zambia,ZMB,34.1550123329079
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Zimbabwe,ZWE,28.2418045662371
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Africa Eastern and Southern,AFE,26.700455682776
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Viet Nam,VNM,80.2404806925562
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Virgin Islands (U.S.),VIR,106.11776701504
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,West Bank and Gaza,PSE,55.439710996154
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,"Yemen, Rep.",YEM,50.1466816974903
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Zambia,ZMB,36.9309649794271
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Zimbabwe,ZWE,28.3862972637424
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Africa Eastern and Southern,AFE,28.4761072594243
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Africa Western and Central,AFW,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Arab World,ARB,37.9537712962421
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Arab World,ARB,37.0406248779122
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Caribbean small states,CSS,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Central Europe and the Baltics,CEB,59.2939220046363
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Early-demographic dividend,EAR,26.3636926582864
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,East Asia & Pacific,EAS,26.3387659117313
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,East Asia & Pacific (excluding high income),EAP,21.4500295712622
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,East Asia & Pacific (IDA & IBRD countries),TEA,21.436887490556
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Euro area,EMU,43.8099612838948
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Europe & Central Asia,ECS,41.3540496175708
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Europe & Central Asia (excluding high income),ECA,36.9724779209772
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Europe & Central Asia (IDA & IBRD countries),TEC,33.1829377156911
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,European Union,EUU,45.0318774993735
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Fragile and conflict affected situations,FCS,26.4662911639189
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Heavily indebted poor countries (HIPC),HPC,31.5612968766397
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,High income,HIC,29.9116779370728
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,IBRD only,IBD,23.8219683402379
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,IDA & IBRD total,IBT,23.9817899826074
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Central Europe and the Baltics,CEB,60.8011179208998
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Early-demographic dividend,EAR,27.7800359895118
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,East Asia & Pacific,EAS,27.647096776469
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,East Asia & Pacific (excluding high income),EAP,22.6819923942794
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,East Asia & Pacific (IDA & IBRD countries),TEA,22.6679633959527
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Euro area,EMU,43.0606877167187
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Europe & Central Asia,ECS,40.9989858270616
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Europe & Central Asia (excluding high income),ECA,37.5347482761124
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Europe & Central Asia (IDA & IBRD countries),TEC,33.6385657317
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,European Union,EUU,44.4488769583572
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Fragile and conflict affected situations,FCS,26.5068320963762
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Heavily indebted poor countries (HIPC),HPC,32.6084522177301
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,High income,HIC,30.4700847173349
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,IBRD only,IBD,24.8698828350249
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,IDA & IBRD total,IBT,25.0403420929645
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,IDA blend,IDB,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,IDA only,IDX,31.0805344090487
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,IDA total,IDA,26.0186742401054
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Late-demographic dividend,LTE,26.0345749039697
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Latin America & Caribbean,LCN,24.8962473471463
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Latin America & Caribbean (excluding high income),LAC,24.0429927385558
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Latin America & the Caribbean (IDA & IBRD countries),TLA,24.5684255733133
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Least developed countries: UN classification,LDC,28.7495190746463
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Low & middle income,LMY,23.3021410322257
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Low income,LIC,32.5402809701642
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Lower middle income,LMC,27.7589098213871
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Middle East & North Africa,MEA,36.2232690014777
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Middle East & North Africa (excluding high income),MNA,31.8124503306006
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Middle East & North Africa (IDA & IBRD countries),TMN,31.5587930681765
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Middle income,MIC,23.1653025154614
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,North America,NAC,15.9215295151107
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,IDA only,IDX,32.5193006613426
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,IDA total,IDA,27.1557462826024
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Late-demographic dividend,LTE,26.1895376253429
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Latin America & Caribbean,LCN,25.1048276193908
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Latin America & Caribbean (excluding high income),LAC,24.2769948738415
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Latin America & the Caribbean (IDA & IBRD countries),TLA,24.7725802823194
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Least developed countries: UN classification,LDC,30.9092690374288
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Low & middle income,LMY,24.4309019819123
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Low income,LIC,34.6339993441994
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Lower middle income,LMC,29.6433061150652
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Middle East & North Africa,MEA,35.5875852560026
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Middle East & North Africa (excluding high income),MNA,31.9043527983713
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Middle East & North Africa (IDA & IBRD countries),TMN,31.6445338244419
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Middle income,MIC,24.2842893153782
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,North America,NAC,16.6348924058711
 Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Not classified,INX,..
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,OECD members,OED,27.6900810298527
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Other small states,OSS,66.339611386819
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Pacific island small states,PSS,58.9286968549394
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Post-demographic dividend,PST,28.3257030409765
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Pre-demographic dividend,PRE,23.0583926604421
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Small states,SST,64.1340839404612
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,South Asia,SAS,21.4769895058441
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,South Asia (IDA & IBRD),TSA,21.4769895058441
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sub-Saharan Africa,SSF,23.8474753374896
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sub-Saharan Africa (excluding high income),SSA,23.7743047450182
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sub-Saharan Africa (IDA & IBRD countries),TSS,23.8474753374896
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Upper middle income,UMC,21.9688591839895
-Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,World,WLD,27.5795258675982
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Afghanistan,AFG,2583.48533239877
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Albania,ALB,14792.2572244853
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Algeria,DZA,13892.5333446205
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,American Samoa,ASM,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Andorra,AND,57475.0692842215
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Angola,AGO,7528.38241791217
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Antigua and Barbuda,ATG,26533.7301936962
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Argentina,ARG,23516.8261980886
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Armenia,ARM,14975.7539538157
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Aruba,ABW,39110.2761899842
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Australia,AUS,52673.0638176231
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Austria,AUT,60354.9279422121
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Azerbaijan,AZE,16675.3179361558
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Bahamas, The",BHS,35406.5739124983
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Bahrain,BHR,56599.5214364411
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Bangladesh,BGD,6047.12401504125
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Barbados,BRB,18760.3700129938
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Belarus,BLR,22301.5766886376
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Belgium,BEL,56712.4695719782
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Belize,BLZ,10531.3234398626
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Benin,BEN,3148.97969597838
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Bermuda,BMU,90984.457670832
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Bhutan,BTN,12909.1009832232
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Bolivia,BOL,9174.44563456336
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Bosnia and Herzegovina,BIH,16428.7164804757
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Botswana,BWA,15960.0156143903
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Brazil,BRA,16069.8380163501
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,British Virgin Islands,VGB,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Brunei Darussalam,BRN,69353.6798666178
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Bulgaria,BGR,25434.84084603
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Burkina Faso,BFA,2232.16282016585
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Burundi,BDI,779.197990653363
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Cabo Verde,CPV,8645.75646859343
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Cambodia,KHM,6153.99439528427
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Cameroon,CMR,4241.11174920592
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Canada,CAN,50498.9731057448
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Cayman Islands,CYM,72697.3672861884
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Central African Republic,CAF,984.843183678857
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Chad,TCD,1785.16732115453
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Channel Islands,CHI,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Chile,CHL,25611.7578269458
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,China,CHN,17262.1759037355
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Colombia,COL,16181.5908990662
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Comoros,COM,3312.74957050544
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Congo, Dem. Rep.",COD,1167.32061572833
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Congo, Rep.",COG,5719.59977338291
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Costa Rica,CRI,23339.6091317787
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Cote d'Ivoire,CIV,5516.39055126829
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Croatia,HRV,33064.258957046
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Cuba,CUB,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Curacao,CUW,25396.9967729561
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Cyprus,CYP,45116.66796875
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Czechia,CZE,45614.0171132531
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Denmark,DNK,60594.9664001912
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Djibouti,DJI,5398.00419189126
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Dominica,DMA,15206.9011569294
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Dominican Republic,DOM,19721.360927265
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Ecuador,ECU,12543.0147078172
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Egypt, Arab Rep.",EGY,13363.732696323
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,El Salvador,SLV,9756.7521864595
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Equatorial Guinea,GNQ,16451.3641478324
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Eritrea,ERI,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Estonia,EST,40586.3784378889
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Eswatini,SWZ,9203.8517513532
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Ethiopia,ETH,2242.44459025146
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Faroe Islands,FRO,62219.8390292479
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Fiji,FJI,13219.697552636
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Finland,FIN,52276.1115723994
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,France,FRA,51130.472314058
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,French Polynesia,PYF,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Gabon,GAB,15949.6373739622
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Gambia, The",GMB,2421.72318070615
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Georgia,GEO,16770.1333771469
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Germany,DEU,59270.7276496985
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Ghana,GHA,6002.55044678386
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Gibraltar,GIB,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Greece,GRC,31927.3792151369
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Greenland,GRL,64264.0564607393
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Grenada,GRD,16446.1138871871
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Guam,GUM,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Guatemala,GTM,10755.8780911166
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Guinea,GIN,3105.82789015443
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Guinea-Bissau,GNB,2236.62931389656
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Guyana,GUY,13240.9713761155
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Haiti,HTI,3236.97492504607
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Honduras,HND,5784.93081057111
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Hong Kong SAR, China",HKG,61221.4195400701
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Hungary,HUN,35152.6036961244
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Iceland,ISL,60523.8179440827
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,India,IND,7150.92423452926
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Indonesia,IDN,11986.4701508376
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Iran, Islamic Rep.",IRN,13348.4109509839
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Iraq,IRQ,12248.5917385963
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Ireland,IRL,92808.0379408403
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Isle of Man,IMN,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Israel,ISR,41222.6350870522
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Italy,ITA,46661.9105159611
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Jamaica,JAM,10083.5268300622
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Japan,JPN,42678.1511448355
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Jordan,JOR,9429.07279552037
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Kazakhstan,KAZ,28689.2710838374
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Kenya,KEN,4687.37782325306
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Kiribati,KIR,2762.93711943669
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Korea, Dem. People's Rep.",PRK,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Korea, Rep.",KOR,43865.0416366745
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Kosovo,XKX,10861.0531745974
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Kuwait,KWT,50703.0001377467
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Kyrgyz Republic,KGZ,5304.22758314405
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Lao PDR,LAO,7743.21906534261
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Latvia,LVA,32199.096037709
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Lebanon,LBN,21710.4648750807
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Lesotho,LSO,2568.34114362719
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Liberia,LBR,1899.52200972855
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Libya,LBY,16194.1082061146
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Liechtenstein,LIE,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Lithuania,LTU,40809.9308244235
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Luxembourg,LUX,121403.823719046
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Macao SAR, China",MAC,126160.45417335
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Madagascar,MDG,1612.29772715626
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Malawi,MWI,1450.01008064784
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Malaysia,MYS,28933.928297233
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Maldives,MDV,23077.2112236652
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Mali,MLI,2379.59587619715
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Malta,MLT,51377.3698598657
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Marshall Islands,MHL,6045.06240778328
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Mauritania,MRT,5610.13236713892
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Mauritius,MUS,24027.1189308354
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Mexico,MEX,20964.2774813692
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Micronesia, Fed. Sts.",FSM,3717.18067032727
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Moldova,MDA,13413.2232935126
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Monaco,MCO,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Mongolia,MNG,13604.978943194
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Montenegro,MNE,24140.6885037136
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Morocco,MAR,8046.22900390625
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Mozambique,MOZ,1388.79707034446
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Myanmar,MMR,6101.37245765709
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Namibia,NAM,9609.48555672874
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Nauru,NRU,10639.5058032541
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Nepal,NPL,4260.67373190851
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Netherlands,NLD,62345.2538465432
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,New Caledonia,NCL,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,New Zealand,NZL,45163.6964269884
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Nicaragua,NIC,5981.1112968883
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Niger,NER,1419.16805070193
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Nigeria,NGA,5362.40830757561
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,North Macedonia,MKD,20222.551001254
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Northern Mariana Islands,MNP,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Norway,NOR,70939.6055180362
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Oman,OMN,37250.6110788359
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Pakistan,PAK,5037.53401559745
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Palau,PLW,18227.2676193907
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Panama,PAN,33239.733231164
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Papua New Guinea,PNG,4059.82860206018
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Paraguay,PRY,14149.5985227505
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Peru,PER,13563.5372933551
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Philippines,PHL,8924.10116416604
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Poland,POL,35882.3655065553
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Portugal,PRT,37865.5603564297
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Puerto Rico,PRI,37453.788413823
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Qatar,QAT,107502.469792021
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Romania,ROU,33638.6859861276
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Russian Federation,RUS,30963.853515625
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Rwanda,RWA,2336.03967302732
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Samoa,WSM,6638.18454746439
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,San Marino,SMR,57444.1193582109
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sao Tome and Principe,STP,4655.48496449805
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Saudi Arabia,SAU,56188.1951827363
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Senegal,SEN,3647.95137357242
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Serbia,SRB,20587.2913380579
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Seychelles,SYC,34219.061370118
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sierra Leone,SLE,2704.05835704649
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Singapore,SGP,105542.413613949
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sint Maarten (Dutch part),SXM,45715.6970519376
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Slovak Republic,SVK,33985.6758419662
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Slovenia,SVN,42373.2506369279
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Solomon Islands,SLB,2511.99788723681
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Somalia,SOM,1548.09792808202
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,South Africa,ZAF,13361.4851289112
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,South Sudan,SSD,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Spain,ESP,44027.4932307597
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sri Lanka,LKA,14112.9525046152
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,St. Kitts and Nevis,KNA,32482.094417215
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,St. Lucia,LCA,18710.142566869
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,St. Martin (French part),MAF,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,St. Vincent and the Grenadines,VCT,15344.3607541942
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sudan,SDN,3914.2255859375
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Suriname,SUR,19771.5473885151
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sweden,SWE,57046.4463076951
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Switzerland,CHE,73732.2353322093
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Syrian Arab Republic,SYR,3502.17511543737
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Tajikistan,TJK,3459.97365083434
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Tanzania,TZA,2981.87451171875
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Thailand,THA,19963.3918407099
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Timor-Leste,TLS,4556.61428089164
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Togo,TGO,2214.71375053039
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Tonga,TON,6488.59753493044
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Trinidad and Tobago,TTO,29687.7990986059
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Tunisia,TUN,12494.7905733455
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Turkiye,TUR,28461.1778708152
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Turkmenistan,TKM,15477.7237643978
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Turks and Caicos Islands,TCA,26752.4000762992
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Tuvalu,TUV,5209.69198096616
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Uganda,UGA,2441.37445233821
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Ukraine,UKR,14217.486328125
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,United Arab Emirates,ARE,76884.9468968289
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,United Kingdom,GBR,49911.1566522001
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,United States,USA,65604.6815198737
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Uruguay,URY,25782.6940702439
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Uzbekistan,UZB,8544.08026729718
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Vanuatu,VUT,3314.66721346101
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Venezuela, RB",VEN,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Viet Nam,VNM,11029.2732083963
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Virgin Islands (U.S.),VIR,40021.7775798024
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,West Bank and Gaza,PSE,6508.44835080318
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Yemen, Rep.",YEM,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Zambia,ZMB,3361.39750299612
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Zimbabwe,ZWE,3211.47191261594
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Africa Eastern and Southern,AFE,3742.84895486287
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Africa Western and Central,AFW,4454.15603820527
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Arab World,ARB,15452.5417546514
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Caribbean small states,CSS,18769.9957548677
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Central Europe and the Baltics,CEB,35739.8474020225
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Early-demographic dividend,EAR,9867.89430428222
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,East Asia & Pacific,EAS,18787.1073890843
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,East Asia & Pacific (excluding high income),EAP,15457.1466634341
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,East Asia & Pacific (IDA & IBRD countries),TEA,15630.4142804571
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Euro area,EMU,51247.0571026436
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Europe & Central Asia,ECS,38462.4301984675
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Europe & Central Asia (excluding high income),ECA,19259.8791952071
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Europe & Central Asia (IDA & IBRD countries),TEC,25281.3099771675
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,European Union,EUU,48546.644810899
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Fragile and conflict affected situations,FCS,5052.36184672427
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Heavily indebted poor countries (HIPC),HPC,2781.96953883233
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,High income,HIC,50843.7127316395
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,IBRD only,IBD,14402.3724749529
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,IDA & IBRD total,IBT,11689.24917055
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,IDA blend,IDB,5280.18016189658
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,IDA only,IDX,3642.06224268468
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,IDA total,IDA,4181.35803142722
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Late-demographic dividend,LTE,18998.7729847944
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Latin America & Caribbean,LCN,17285.6069203248
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Latin America & Caribbean (excluding high income),LAC,16622.8824199193
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Latin America & the Caribbean (IDA & IBRD countries),TLA,17205.3916998699
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Least developed countries: UN classification,LDC,3397.70095908334
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Low & middle income,LMY,10837.1327182417
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Low income,LIC,2055.9755250322
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Lower middle income,LMC,6975.94574287097
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Middle East & North Africa,MEA,17284.849350311
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Middle East & North Africa (excluding high income),MNA,11275.4129231537
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Middle East & North Africa (IDA & IBRD countries),TMN,11331.5455895715
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Middle income,MIC,11861.8460267069
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,North America,NAC,64056.5734361533
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Not classified,INX,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,OECD members,OED,47346.3310316596
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Other small states,OSS,26062.5394565859
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Pacific island small states,PSS,7198.70180940535
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Post-demographic dividend,PST,52125.4675605668
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Pre-demographic dividend,PRE,3831.97816622407
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Small states,SST,22409.0833629252
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,South Asia,SAS,6744.92666196924
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,South Asia (IDA & IBRD),TSA,6744.92666196924
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sub-Saharan Africa,SSF,4032.06592680084
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sub-Saharan Africa (excluding high income),SSA,4029.47785786998
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sub-Saharan Africa (IDA & IBRD countries),TSS,4032.06592680083
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Upper middle income,UMC,17000.6158731275
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,World,WLD,17962.5423938
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,OECD members,OED,28.2527608756944
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Other small states,OSS,67.2400475846336
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Pacific island small states,PSS,56.665566153479
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Post-demographic dividend,PST,29.1918474690203
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Pre-demographic dividend,PRE,23.9519330043031
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Small states,SST,65.1852278903
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,South Asia,SAS,23.4845204173672
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,South Asia (IDA & IBRD),TSA,23.4845204173672
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sub-Saharan Africa,SSF,25.5570730241406
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sub-Saharan Africa (excluding high income),SSA,25.4788752679472
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Sub-Saharan Africa (IDA & IBRD countries),TSS,25.5570730241406
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,Upper middle income,UMC,22.9291135884474
+Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,World,WLD,28.3518939249673
 ,,,,
 ,,,,
 ,,,,
