@@ -216,55 +216,6 @@ Series Name,Series Code,Country Name,Country Code,2018 [YR2018]
 "GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,"Yemen, Rep.",YEM,..
 "GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Zambia,ZMB,3442.27307196302
 "GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Zimbabwe,ZWE,2614.40627109802
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Africa Eastern and Southern,AFE,3648.31091074507
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Africa Western and Central,AFW,4198.08104224978
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Arab World,ARB,15319.0196998155
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Caribbean small states,CSS,17733.1799632717
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Central Europe and the Baltics,CEB,32217.8796816882
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Early-demographic dividend,EAR,9545.21539431555
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,East Asia & Pacific,EAS,17732.6356498084
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,East Asia & Pacific (excluding high income),EAP,14393.8238896544
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,East Asia & Pacific (IDA & IBRD countries),TEA,14555.4345487292
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Euro area,EMU,47688.0357462866
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Europe & Central Asia,ECS,35853.3424388769
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Europe & Central Asia (excluding high income),ECA,18188.7166480002
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Europe & Central Asia (IDA & IBRD countries),TEC,23458.2394966732
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,European Union,EUU,44965.8230008092
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Fragile and conflict affected situations,FCS,4827.81880599897
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Heavily indebted poor countries (HIPC),HPC,2646.27060936276
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,High income,HIC,48465.0331681549
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,IBRD only,IBD,13605.3308141179
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,IDA & IBRD total,IBT,11075.893665588
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,IDA blend,IDB,5074.10150937995
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,IDA only,IDX,3435.15672792378
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,IDA total,IDA,3977.03354420128
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Late-demographic dividend,LTE,17717.3921835859
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Latin America & Caribbean,LCN,16865.3635132795
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Latin America & Caribbean (excluding high income),LAC,16255.6245990015
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Latin America & the Caribbean (IDA & IBRD countries),TLA,16799.3117419652
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Least developed countries: UN classification,LDC,3194.87499278305
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Low & middle income,LMY,10293.824422645
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Low income,LIC,1971.48463000838
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Lower middle income,LMC,6561.68183757204
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Middle East & North Africa,MEA,17354.4289230075
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Middle East & North Africa (excluding high income),MNA,11304.6082306582
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Middle East & North Africa (IDA & IBRD countries),TMN,11364.0289604985
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Middle income,MIC,11247.5229109224
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,North America,NAC,61858.6761708785
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Not classified,INX,..
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,OECD members,OED,45334.4398785185
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Other small states,OSS,24151.981743472
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Pacific island small states,PSS,7174.35117010282
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Post-demographic dividend,PST,49709.0228552581
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Pre-demographic dividend,PRE,3671.27888025048
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Small states,SST,20889.3733222846
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,South Asia,SAS,6360.87875723316
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,South Asia (IDA & IBRD),TSA,6360.87875723316
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sub-Saharan Africa,SSF,3871.96140494041
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sub-Saharan Africa (excluding high income),SSA,3869.5001492733
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Sub-Saharan Africa (IDA & IBRD countries),TSS,3871.96140494041
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,Upper middle income,UMC,16141.5968997533
-"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,World,WLD,17141.1458177429
 ,,,,
 ,,,,
 ,,,,
